@@ -8,7 +8,7 @@ from tqdm import tqdm
 from glob import glob
 from utils import read_json, write_json, read_file, read_yaml, parse_range, parse_response_wvs, convert_to_percentages
 
-from wvs_measure_distance import kl_divergence, create_wvs_question_map
+from utils import kl_divergence, create_wvs_question_map
 
 demographic_ids = ["N_REGION_WVS Region country specific", "Q260 Sex", "Q262 Age", "Q273 Marital status", "Q275R Highest educational level: Respondent (recoded into 3 groups)", "Q287 Social class (subjective)"]
 demographic_txt = ["region", "sex", "age", "marital_status", "education", "social_class"]
