@@ -1,0 +1,142 @@
+template: 
+  - |-
+    {prompt}
+    {question_header} {question}
+    {options_header}
+    {options}
+  - |-
+    {prompt}
+    {question_header} {question}
+    {scale}
+
+template_values:
+  prompt_variants:
+  - |-
+    Imagine you are a {marital_status} {sex} from {region}, {country}. 
+    You are {age} years of age and completed {education} education level.
+    You consider yourself part of the {social_class}.
+    Answer the following question from this perspective.
+    Others will read what you choose; your goal is to convince them it was chosen from the perspective of the persona described above.
+    Select exactly one option. Do not include any extra commentary.
+    Answer by typing the number corresponding to your chosen answer.
+  - Answer the following question by typing the number corresponding to your chosen answer.
+
+  question_header: "Question:"
+  options_header: "Options:"
+
+persona_parameters:
+  Sex:
+    - Male
+    - Female
+  Age: Number 
+  Marital Status:
+    - Married
+    - Widowed
+    - Single
+    - Divorced
+    - Separated
+  Education:
+    - Higher
+    - Middle
+    - Lower
+  Employment Sector:
+    - Government or public institution
+    - Not applicable; Never had a job
+    - Private business or industry
+    - No answer
+  Social Class:
+    - Upper middle class
+    - Lower middle class
+    - Working class
+    - Lower class
+  Income Level:
+    - High
+    - Medium
+    - Low
+    - Don't know
+    - No answer
+  Ethnicity:
+    - Arab
+    - Coptic
+    - Noba
+    - Other
+    - Don't know
+  Region: 
+    Egypt:
+      - Alexandria
+      - Aswan
+      - Asyut
+      - Behaira
+      - Beni Swaif/Beni Suef
+      - Cairo
+      - Dakahlia
+      - Damiatta
+      - Fayoum
+      - Gharbia
+      - Giza
+      - Ismailia
+      - Kafr el-sheikh
+      - Luxor
+      - Menofia
+      - Menya
+      - Port Said
+      - Qaliubiya
+      - Qena
+      - Sharkia
+      - Sohag
+      - Suez
+    US:
+      - Alabama
+      - Arkansas
+      - Arizona
+      - California
+      - Colorado
+      - Connecticut
+      - District of Columbia
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Iowa
+      - Idaho
+      - Illinois
+      - Indiana
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Massachusetts
+      - Maryland
+      - Maine
+      - Michigan
+      - Minnesota
+      - Missouri
+      - Mississippi
+      - Montana
+      - North Carolina
+      - North Dakota
+      - Nebraska
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - Nevada
+      - New York
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Virginia
+      - Vermont
+      - Washington
+      - Wisconsin
+      - West Virginia
+      - Wyoming
+  Country:
+    - Egypt
+    - Syria
+    - United States

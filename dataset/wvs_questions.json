@@ -1,0 +1,1231 @@
+{
+    "Q1": {
+        "description": "Important in life: Family",
+        "questions": [
+            "How would you rate the importance of family in your life?",
+            "To what extent do you consider family as important in your life?",
+            "Would you say family holds great importance in your life?",
+            "Do you perceive family as significant in your life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q2": {
+        "description": "Important in life: Friends",
+        "questions": [
+            "How important are friends in life?",
+            "In your opinion, how significant are friends in life?",
+            "To what extent do you consider friends to be important in life?",
+            "Do you believe friends hold great importance in life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q3": {
+        "description": "Important in life: Leisure time",
+        "questions": [
+            "How important is leisure time in your life?",
+            "To what extent is leisure time important to you?",
+            "Would you consider leisure time to be important in your life?",
+            "On a scale of importance, where would you place leisure time in your life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q3_ar": {
+        "description": "Important in life: Leisure time",
+        "questions": [
+            "ما مدى أهمية وقت الفراغ في حياتك؟",
+            "ما مدى أهمية وقت الفراغ بالنسبة لك؟",
+            "هل تعتبر وقت الفراغ مهما في حياتك؟",
+            "على مقياس الأهمية، أين تضع وقت الفراغ في حياتك؟"
+        ],
+        "options": [
+            "مهم جدا",
+            "مهم إلى حد ما",
+            "ليس مهما",
+            "ليس مهما على الإطلاق",
+            "لا أعرف"
+        ]
+    },
+    "Q4": {
+        "description": "Important in life: Politics",
+        "questions": [
+            "How would you rate the importance of politics in life?",
+            "How significant do you consider politics to be in life?",
+            "In your opinion, how important is politics in life?",
+            "To what extent do you think politics is important in life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q5": {
+        "description": "Important in life: Work",
+        "questions": [
+            "How important is work in your life?",
+            "Would you say work is important in your life?",
+            "To what extent do you consider work important in life?",
+            "Do you view work as an important aspect of life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q6": {
+        "description": "Important in life: Religion",
+        "questions": [
+            "How important is religion in your life?",
+            "To what extent do you consider religion important in your life?",
+            "Would you say that religion is important in your life?",
+            "What level of importance do you give to religion in your life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q7": {
+        "description": "Important child qualities: good manners",
+        "questions": [
+            "What is your opinion on the importance of good manners in children?",
+            "Are good manners an important quality for children?",
+            "Do you believe that good manners should be emphasized in children?",
+            "Would you consider good manners as a crucial characteristic in children?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q8": {
+        "description": "Important child qualities: independence",
+        "questions": [
+            "How important is independence in a child?",
+            "Is independence mentioned as an important quality in a child?",
+            "Do you think independence is an important quality in a child?",
+            "Do you know if independence is considered an important quality in a child?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q9": {
+        "description": "Important child qualities: hard work",
+        "questions": [
+            "Do you consider hard work an important quality in a child?",
+            "Is hard work a quality that you think is important for a child?",
+            "Do you believe that hard work is an important trait for a child?",
+            "In your opinion, is hard work an important child quality?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q10": {
+        "description": "Important child qualities: feeling of responsibility",
+        "questions": [
+            "Do you consider feeling of responsibility as an important child quality?",
+            "Is feeling of responsibility mentioned as an important child quality?",
+            "Are you aware of feeling of responsibility as an important child quality?",
+            "Do you know if feeling of responsibility is considered important for children?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q11": {
+        "description": "Important child qualities: imagination",
+        "questions": [
+            "What do you think about the importance of imagination in a child?",
+            "Is imagination an important quality for a child?",
+            "Do you believe that imagination is a significant attribute for a child?",
+            "Are you of the opinion that imagination plays a crucial role in a child's development?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q12": {
+        "description": "Important child qualities: tolerance and respect for other people",
+        "questions": [
+            "Do you think it is important for children to have tolerance and respect for other people?",
+            "Do you believe tolerance and respect for other people are essential qualities for children?",
+            "Are tolerance and respect for other people important qualities that children should possess?",
+            "Do you consider tolerance and respect for other people to be significant when it comes to children?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q13": {
+        "description": "Important child qualities: thrift saving money and things",
+        "questions": [
+            "How important do you consider thrift and saving money and things in a child?",
+            "Do you think thrift and saving money and things are important qualities in a child?",
+            "Are thrift and saving money and things qualities that you think are important for a child?",
+            "Would you say thrift and saving money and things are important characteristics to have as a child?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q14": {
+        "description": "Important child qualities: determination perseverance",
+        "questions": [
+            "How important is determination and perseverance in a child?",
+            "Are determination and perseverance qualities that should be mentioned in a child?",
+            "Do you believe determination and perseverance are important qualities in a child?",
+            "Would you say determination and perseverance are qualities that are not known in a child?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q15": {
+        "description": "Important child qualities: religious faith",
+        "questions": [
+            "How important is religious faith in a child?",
+            "Is religious faith an important quality for a child?",
+            "Does religious faith play a significant role in a child's development?",
+            "Do you consider religious faith to be an important trait in children?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q16": {
+        "description": "Important child qualities: unselfishness",
+        "questions": [
+            "What do you think about the importance of unselfishness in a child?",
+            "In your opinion, is unselfishness an important quality for a child to possess?",
+            "Is unselfishness something that should be valued in children?",
+            "When considering child qualities, do you think unselfishness is significant?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q17": {
+        "description": "Important child qualities: obedience",
+        "questions": [
+            "What is your opinion on the importance of obedience in a child?",
+            "Do you consider obedience to be an important quality in a child?",
+            "Is obedience a quality that should be emphasized in children?",
+            "In your perspective, how significant is obedience when it comes to child development?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q18": {
+        "description": "Neighbors: Drug addicts",
+        "questions": [
+            "What do you think about your neighbors being drug addicts?",
+            "How important do you consider it that your neighbors are drug addicts?",
+            "Are your neighbors being drug addicts mentioned as a concern to you?",
+            "Do you know if your neighbors are drug addicts?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q19": {
+        "description": "Neighbors: People of a different race",
+        "questions": [
+            "Do you think it is important to have neighbors who are people of a different race?",
+            "Is the presence of neighbors who are people of a different race not mentioned in your neighborhood?",
+            "Are you unsure whether you have neighbors who are people of a different race?",
+            "Do you have neighbors who are people of a different race but you don't know?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q20": {
+        "description": "Neighbors: People who have AIDS",
+        "questions": [
+            "How important do you think it is to have support services in place for neighbors who have AIDS?",
+            "To what extent do you believe the topic of neighbors who have AIDS should be discussed openly in the community?",
+            "Are you knowledgeable about the available resources and assistance for neighbors who have AIDS?",
+            "How aware are you of the specific challenges and needs faced by neighbors who have AIDS?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q21": {
+        "description": "Neighbors: Immigrants/foreign workers",
+        "questions": [
+            "How important do you think it is to have neighbors who are immigrants/foreign workers?",
+            "In your opinion, is it mentioned whether your neighbors are immigrants/foreign workers?",
+            "Do you know if your neighbors are immigrants/foreign workers?",
+            "Are your neighbors' immigrant/foreign worker status not mentioned to you?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q22": {
+        "description": "Neighbors: Homosexuals",
+        "questions": [
+            "What is your opinion on neighbors who are homosexuals?",
+            "How would you feel about having homosexual neighbors?",
+            "Do you think it is important to mention the sexual orientation of your neighbors?",
+            "Do you know the sexual orientation of your neighbors?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q23": {
+        "description": "Neighbors: People of a different religion",
+        "questions": [
+            "What is your opinion on having neighbors who practice a different religion?",
+            "In your view, does the religious affiliation of your neighbors play a significant role?",
+            "Do you think it is important for neighbors to disclose their religious beliefs?",
+            "Are you aware of the religious background of your neighbors?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q24": {
+        "description": "Neighbors: Heavy drinkers",
+        "questions": [
+            "Are your neighbors heavy drinkers?",
+            "Do you consider your neighbors to be heavy drinkers?",
+            "Would you say that your neighbors are heavy drinkers?",
+            "Are heavy drinking habits of neighbors important to you?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q26": {
+        "description": "Neighbors: People who speak a different language",
+        "questions": [
+            "How important is it to you that neighbors speak a different language?",
+            "Is it mentioned to you that neighbors should speak a different language?",
+            "Do you know if having neighbors who speak a different language is important?",
+            "Are you aware if neighbors speaking a different language is mentioned?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q27": {
+        "description": "One of main goals in life has been to make my parents proud",
+        "questions": [
+            "To what extent is making my parents proud one of my main goals in life?",
+            "How much do I strive to make my parents proud in life?",
+            "To what degree do I aim to make my parents proud in life?",
+            "Do I consider making my parents proud as one of my primary life goals?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q28": {
+        "description": "Pre-school child suffers with working mother",
+        "questions": [
+            "Do you believe that a pre-school child suffers when their mother works?",
+            "Are you of the opinion that a working mother negatively affects her pre-school child?",
+            "Do you agree that a pre-school child faces difficulties due to their mother's employment?",
+            "Are you inclined to believe that a working mother has a detrimental impact on her pre-school child?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q29": {
+        "description": "Men make better political leaders than women do",
+        "questions": [
+            "Do you agree strongly, agree, disagree, strongly disagree, or don't know whether men make better political leaders than women do?",
+            "Would you say you agree strongly, agree, disagree, strongly disagree, or don't know with the statement that men make better political leaders than women do?",
+            "In your opinion, do you agree strongly, agree, disagree, strongly disagree, or don't know that men make better political leaders than women do?",
+            "Is your standpoint to agree strongly, agree, disagree, strongly disagree, or don't know when it comes to men making better political leaders than women do?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q30": {
+        "description": "University is more important for a boy than for a girl",
+        "questions": [
+            "Do you believe that university is more important for a boy than for a girl?",
+            "In your opinion, is university more important for a boy than for a girl?",
+            "Do you agree that university holds more significance for a boy than for a girl?",
+            "Is it your view that university is more important for a boy than for a girl?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q31": {
+        "description": "Men make better business executives than women do",
+        "questions": [
+            "Do you believe that men make better business executives than women do?",
+            "In your opinion, do men excel more as business executives compared to women?",
+            "Do you agree with the statement that men are better business executives than women?",
+            "Do you think women are less effective as business executives compared to men?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q32": {
+        "description": "Being a housewife just as fulfilling",
+        "questions": [
+            "Is being a housewife just as fulfilling as having a career?",
+            "Do you believe that being a housewife is as fulfilling as having a career?",
+            "In your opinion, is being a housewife equally fulfilling as having a career?",
+            "Would you agree that being a housewife can be just as fulfilling as having a career?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q33": {
+        "description": "Jobs scarce: Men should have more right to a job than women",
+        "questions": [
+            "Do you agree strongly or disagree strongly that jobs should be scarce for both men and women?",
+            "Do you agree or disagree that men should have more right to a job than women?",
+            "In your opinion, do you neither agree nor disagree that jobs should be scarce for men, and women?",
+            "Do you strongly disagree or don't know whether men should have more right to a job than women?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q34": {
+        "description": "Jobs scarce: Employers should give priority to (nation) people than immigrants",
+        "questions": [
+            "Should employers prioritize (nation) people over immigrants due to job scarcity?",
+            "Do you agree that employers should give preference to (nation) people over immigrants when jobs are scarce?",
+            "Is it fair for employers to prioritize (nation) people instead of immigrants during job shortages?",
+            "Do you think employers should prioritize (nation) individuals rather than immigrants in times of job scarcity?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q35": {
+        "description": "Problem if women have more income than husband",
+        "questions": [
+            "What is your opinion on the problem if women have more income than their husband?",
+            "How do you feel about the situation where a woman earns more money than her husband?",
+            "Do you believe there is a problem when the wife's income exceeds that of her husband?",
+            "What is your stance on the issue of women earning more income than their husband?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q37": {
+        "description": "Duty towards society to have children",
+        "questions": [
+            "Is there a duty towards society to have children?",
+            "Do you believe it is a duty towards society to have children?",
+            "Do you think individuals have a duty towards society to have children?",
+            "Should people feel a duty towards society to have children?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q38": {
+        "description": "It is children duty to take care of ill parent",
+        "questions": [
+            "Do you believe it is the duty of children to take care of an ill parent?",
+            "Should children be responsible for taking care of an ill parent?",
+            "Do you agree that it is the obligation of children to care for an ill parent?",
+            "Is it the responsibility of children to look after an ill parent?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q39": {
+        "description": "People who don't work turn lazy",
+        "questions": [
+            "Do you believe that people who don't work turn lazy?",
+            "In your opinion, do you think people who don't work tend to become lazy?",
+            "Are you of the belief that individuals who don't work often become lazy?",
+            "Do you agree or disagree with the statement that people who don't work become lazy?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q40": {
+        "description": "Work is a duty towards society",
+        "questions": [
+            "Do you believe that work is a duty towards society?",
+            "Is work considered a duty towards society?",
+            "To what extent do you agree that work is a duty towards society?",
+            "Do you think work should be seen as a duty towards society?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q41": {
+        "description": "Work should  always come first even if it means less spare time",
+        "questions": [
+            "Should work always come first even if it means less spare time?",
+            "Do you believe work should always take priority over spare time?",
+            "Is it acceptable for work to be prioritized over spare time?",
+            "Do you think sacrificing spare time for work is necessary in all situations?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q42": {
+        "description": "Basic kinds of attitudes concerning society",
+        "questions": [
+            "What are your thoughts on the overall way our society is organized?",
+            "How do you believe our society can be improved?",
+            "What is your stance on defending our present society against subversive forces?",
+            "Do you have a clear opinion about the kind of attitudes our society should adopt?"
+        ],
+        "options": [
+            "The entire way our society is organized must be radically changed by revolutionary action",
+            "Our society must be gradually improved by reforms",
+            "Our present society must be valiantly defended against all subversive forces",
+            "Don't know"
+        ]
+    },
+    "Q43": {
+        "description": "Future changes: Less importance placed on work",
+        "questions": [
+            "What is your opinion on future changes: less importance placed on work?",
+            "How do you view the future changes regarding less importance placed on work?",
+            "What are your thoughts on the future trend of placing less importance on work?",
+            "What is your perspective on the decreasing emphasis on work in the future?"
+        ],
+        "options": [
+            "Good thing",
+            "Bad thing",
+            "Don't mind",
+            "Don't know"
+        ]
+    },
+    "Q44": {
+        "description": "Future changes: More emphasis on technology",
+        "questions": [
+            "What are your thoughts on future changes with more emphasis on technology?",
+            "How do you feel about the possibility of more emphasis on technology in the future?",
+            "What is your opinion regarding the increased focus on technology in upcoming changes?",
+            "What is your stance on the upcoming changes that involve a greater emphasis on technology?"
+        ],
+        "options": [
+            "Good thing",
+            "Bad thing",
+            "Don't mind",
+            "Don't know"
+        ]
+    },
+    "Q45": {
+        "description": "Future changes: Greater respect for authority",
+        "questions": [
+            "What are your thoughts on the future changes regarding greater respect for authority?",
+            "How do you feel about the potential increase in respect for authority in the future?",
+            "What is your opinion on the expected rise in respect for authority in the coming years?",
+            "What are your sentiments regarding the future shift towards greater respect for authority?"
+        ],
+        "options": [
+            "Good thing",
+            "Bad thing",
+            "Don't mind",
+            "Don't know"
+        ]
+    },
+    "Q46": {
+        "description": "Feeling of happiness",
+        "questions": [
+            "How would you rate your feeling of happiness?",
+            "On a scale of 1 to 5, with 1 being not happy at all and 5 being very happy, how would you rate your level of happiness?",
+            "Do you consider yourself a happy person?",
+            "To what extent do you feel happy on a daily basis?"
+        ],
+        "options": [
+            "Very happy",
+            "Quite happy",
+            "Not very happy",
+            "Not at all happy",
+            "Don't know"
+        ]
+    },
+    "Q47": {
+        "description": "State of health (subjective)",
+        "questions": [
+            "How would you describe your current state of health?",
+            "Please rate your subjective state of health.",
+            "On a scale of very good to very poor, how would you rate your health?",
+            "In terms of your overall well-being, how would you assess your health?"
+        ],
+        "options": [
+            "Very good",
+            "Good",
+            "Fair",
+            "Poor",
+            "Very poor"
+        ]
+    },
+    "Q51": {
+        "description": "Frequency you/family (last 12 month): Gone without enough food to eat",
+        "questions": [
+            "How often have you or your family gone without enough food to eat in the last 12 months?",
+            "In the past year, how frequently have you or your family experienced not having enough food to eat?",
+            "Have you or your family sometimes gone without enough food to eat in the last 12 months?",
+            "During the last 12 months, how frequently have you or your family faced the situation of not having enough food to eat?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q52": {
+        "description": "Frequency you/family (last 12 month): Felt unsafe from crime in your own home",
+        "questions": [
+            "Frequency you felt unsafe from crime in your own home?",
+            "How often did you feel unsafe from crime in your own home?",
+            "In the last 12 months, how frequently have you felt unsafe from crime in your own home?",
+            "Did you feel unsafe from crime in your own home often, sometimes, rarely, or never in the past year?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q53": {
+        "description": "Frequency you/family (last 12 month): Gone without needed medicine or treatment that you needed",
+        "questions": [
+            "How often have you or your family gone without needed medicine or treatment that you needed in the last 12 months?",
+            "What is the frequency of you or your family going without needed medicine or treatment that you needed in the last 12 months?",
+            "In the last 12 months, how frequently have you or your family gone without the medicine or treatment you needed?",
+            "Have you or your family rarely, sometimes, or often gone without needed medicine or treatment that you needed in the last 12 months?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q54": {
+        "description": "Frequency you/family (last 12 month): Gone without a cash income",
+        "questions": [
+            "Frequency you/family (last 12 month): Gone without a cash income?",
+            "How frequently have you or your family gone without a cash income in the last 12 months?",
+            "In the past year, how often did you or your family experience a period without any cash income?",
+            "Have you or your family experienced a lack of cash income in the last 12 months? If so, how frequently?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q55": {
+        "description": "In the last 12 month, how often have you or your family: Gone without a safe shelter over your head",
+        "questions": [
+            "In the last 12 months, how often have you or your family gone without a safe shelter over your head?",
+            "During the past year, how frequently have you or your family experienced a lack of secure housing?",
+            "In the past 12 months, how frequently did you or your family not have access to a safe shelter?",
+            "Have you or your family experienced periods without a secure shelter in the last year? If yes, how often?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q58": {
+        "description": "Trust: Your family",
+        "questions": [
+            "How much do you trust your family?",
+            "Is there a significant level of trust in your family?",
+            "To what extent do you trust your family?",
+            "In general, how much trust do you have in your family?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q59": {
+        "description": "Trust: Your neighborhood",
+        "questions": [
+            "How much do you trust your neighborhood?",
+            "To what extent do you place trust in your neighborhood?",
+            "How would you rate the level of trust you have for your neighborhood?",
+            "Do you have a high level of trust in your neighborhood?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q60": {
+        "description": "Trust: People you know personally",
+        "questions": [
+            "How much do you trust people you know personally?",
+            "To what extent do you trust people you know personally?",
+            "Do you trust people you know personally?",
+            "Would you say your level of trust towards people you know personally is high or low?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q61": {
+        "description": "Trust: People you meet for the first time",
+        "questions": [
+            "How much do you trust people you meet for the first time?",
+            "To what extent do you trust individuals you encounter for the first time?",
+            "What level of trust do you have towards people you meet for the first time?",
+            "How would you rate your level of trust in individuals when you initially meet them?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q62": {
+        "description": "Trust: People of another religion",
+        "questions": [
+            "How much do you trust people of another religion?",
+            "To what extent do you trust people of a different religion?",
+            "Would you say you trust individuals of another religion?",
+            "Do you have trust in individuals from a different religion?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q63": {
+        "description": "Trust: People of another nationality",
+        "questions": [
+            "How much do you trust people of another nationality?",
+            "To what extent do you trust individuals of a different nationality?",
+            "How much trust do you have for people from another nationality?",
+            "Do you trust individuals of another nationality?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q64": {
+        "description": "Confidence: Churches",
+        "questions": [
+            "How much confidence do you have in churches?",
+            "To what extent do you trust churches?",
+            "How would you rate your level of confidence in churches?",
+            "Do you have much confidence in churches?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q66": {
+        "description": "Confidence: The Press",
+        "questions": [
+            "How much confidence do you have in the press?",
+            "Do you have a great deal of confidence in the press?",
+            "To what extent do you have confidence in the press?",
+            "Would you say you have quite a lot of confidence in the press?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q67": {
+        "description": "Confidence: Television",
+        "questions": [
+            "How much confidence do you have in television?",
+            "To what extent do you trust television?",
+            "How comfortable are you relying on television?",
+            "What is your level of certainty in television?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q68": {
+        "description": "Confidence: Labor Unions",
+        "questions": [
+            "How much confidence do you have in labor unions?",
+            "To what extent do you trust labor unions?",
+            "What level of confidence do you place in labor unions?",
+            "Do you have faith in labor unions?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q72": {
+        "description": "Confidence: The Political Parties",
+        "questions": [
+            "How much confidence do you have in the political parties?",
+            "To what extent do you trust the political parties?",
+            "How would you rate your level of confidence in the political parties?",
+            "Do you have a high or low level of confidence in the political parties?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q73": {
+        "description": "Confidence: Parliament",
+        "questions": [
+            "How confident are you in Parliament?",
+            "To what extent do you have confidence in Parliament?",
+            "What level of confidence do you have in Parliament?",
+            "In terms of confidence, how would you rate Parliament?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q74": {
+        "description": "Confidence: The Civil Services",
+        "questions": [
+            "How much confidence do you have in the Civil Services?",
+            "To what extent do you have confidence in the Civil Services?",
+            "How would you rate your level of confidence in the Civil Services?",
+            "Do you have confidence in the Civil Services?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q75": {
+        "description": "Confidence: Universities (Private)",
+        "questions": [
+            "Please rate your confidence in universities (private):",
+            "On a scale of 1-5, how confident are you in universities (private)?",
+            "How much confidence do you have in universities (private)?",
+            "With regards to universities (private), how confident are you?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q77": {
+        "description": "Confidence: Major Companies",
+        "questions": [
+            "How much confidence do you have in major companies?",
+            "On a scale of 1 to 5, how confident are you in major companies?",
+            "Do you feel major companies deserve your confidence?",
+            "In general, how would you rate your confidence in major companies?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q78": {
+        "description": "Confidence: Private banks",
+        "questions": [
+            "Please rate your confidence level in private banks.",
+            "On a scale of 1 to 5, how much confidence do you have in private banks?",
+            "How would you describe your level of confidence in private banks?",
+            "To what extent do you trust private banks?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q79": {
+        "description": "Confidence: The Environmental Protection Movement",
+        "questions": [
+            "How much confidence do you have in the Environmental Protection Movement?",
+            "To what extent do you trust the Environmental Protection Movement?",
+            "How much faith do you have in the Environmental Protection Movement?",
+            "How confident are you in the Environmental Protection Movement?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q80": {
+        "description": "Confidence: The Women's Movement",
+        "questions": [
+            "How much confidence do you have in 'Confidence: The Women's Movement'?",
+            "On a scale of 1 to 5, how much confidence do you have in 'Confidence: The Women's Movement'?",
+            "To what extent do you trust 'Confidence: The Women's Movement'?",
+            "How would you rate your confidence in 'Confidence: The Women's Movement'?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q81": {
+        "description": "Confidence: Charitable or humanitarian organizations",
+        "questions": [
+            "How much confidence do you have in charitable or humanitarian organizations?",
+            "To what extent do you have confidence in charitable or humanitarian organizations?",
+            "How would you rate your level of confidence in charitable or humanitarian organizations?",
+            "Do you have confidence in charitable or humanitarian organizations?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q82": {
+        "description": "Confidence: Major regional organization (combined from country-specific)",
+        "questions": [
+            "How much confidence do you have in the major regional organization (combined from country-specific)?",
+            "To what extent do you trust the major regional organization (combined from country-specific)?",
+            "How would you rate your level of confidence in the major regional organization (combined from country-specific)?",
+            "How comfortable are you with relying on the major regional organization (combined from country-specific)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q83": {
+        "description": "Confidence: The United Nations (UN)",
+        "questions": [
+            "How much confidence do you have in the United Nations (UN)?",
+            "To what extent do you trust the United Nations (UN)?",
+            "In your opinion, how strong is your confidence in the United Nations (UN)?",
+            "How would you rate your level of confidence in the United Nations (UN)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q84": {
+        "description": "Confidence: International Monetary Found (IMF)",
+        "questions": [
+            "How much confidence do you have in the International Monetary Found (IMF)?",
+            "To what extent do you trust the International Monetary Found (IMF)?",
+            "How would you rate your level of confidence in the International Monetary Found (IMF)?",
+            "Do you have a positive opinion about the International Monetary Found (IMF)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q85": {
+        "description": "Confidence: International Criminal Court (ICC)",
+        "questions": [
+            "What level of confidence do you have in the International Criminal Court (ICC)?",
+            "How much confidence do you place in the International Criminal Court (ICC)?",
+            "To what extent do you trust the International Criminal Court (ICC)?",
+            "How strongly do you believe in the effectiveness of the International Criminal Court (ICC)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q86": {
+        "description": "Confidence: North Atlantic Treaty Organization (NATO)",
+        "questions": [
+            "How much confidence do you have in the North Atlantic Treaty Organization (NATO)?",
+            "To what extent do you trust the North Atlantic Treaty Organization (NATO)?",
+            "What is your level of confidence in the North Atlantic Treaty Organization (NATO)?",
+            "In your opinion, how much faith do you have in the North Atlantic Treaty Organization (NATO)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q87": {
+        "description": "Confidence: The World Bank (WB)",
+        "questions": [
+            "How much confidence do you have in the World Bank (WB)?",
+            "To what extent do you trust the World Bank (WB)?",
+            "How would you rate your level of confidence in the World Bank (WB)?",
+            "Do you have a high level of confidence in the World Bank (WB)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q88": {
+        "description": "Confidence: The World Health Organization (WHO)",
+        "questions": [
+            "How much confidence do you have in the World Health Organization (WHO)?",
+            "To what extent do you trust the World Health Organization (WHO)?",
+            "In general, how much faith do you have in the World Health Organization (WHO)?",
+            "How strongly do you believe in the credibility of the World Health Organization (WHO)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q89": {
+        "description": "Confidence: The World Trade Organization (WTO)",
+        "questions": [
+            "How much confidence do you have in the World Trade Organization (WTO)?",
+            "What level of confidence do you hold in the World Trade Organization (WTO)?",
+            "To what extent do you trust the World Trade Organization (WTO)?",
+            "What is your level of confidence in the World Trade Organization (WTO)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q249": {
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ]
+    }
+
+}

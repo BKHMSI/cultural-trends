@@ -1,0 +1,2395 @@
+{
+    "Q1": {
+        "description": "Important in life: Family",
+        "questions": [
+            "How would you rate the importance of family in your life?",
+            "To what extent do you consider family as important in your life?",
+            "Would you say family holds great importance in your life?",
+            "Do you perceive family as significant in your life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q2": {
+        "description": "Important in life: Friends",
+        "questions": [
+            "How important are friends in life?",
+            "In your opinion, how significant are friends in life?",
+            "To what extent do you consider friends to be important in life?",
+            "Do you believe friends hold great importance in life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q3": {
+        "description": "Important in life: Leisure time",
+        "questions": [
+            "How important is leisure time in your life?",
+            "To what extent is leisure time important to you?",
+            "Would you consider leisure time to be important in your life?",
+            "On a scale of importance, where would you place leisure time in your life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q4": {
+        "description": "Important in life: Politics",
+        "questions": [
+            "How would you rate the importance of politics in life?",
+            "How significant do you consider politics to be in life?",
+            "In your opinion, how important is politics in life?",
+            "To what extent do you think politics is important in life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q5": {
+        "description": "Important in life: Work",
+        "questions": [
+            "How important is work in your life?",
+            "Would you say work is important in your life?",
+            "To what extent do you consider work important in life?",
+            "Do you view work as an important aspect of life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q6": {
+        "description": "Important in life: Religion",
+        "questions": [
+            "How important is religion in your life?",
+            "To what extent do you consider religion important in your life?",
+            "Would you say that religion is important in your life?",
+            "What level of importance do you give to religion in your life?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know"
+        ]
+    },
+    "Q7": {
+        "description": "Important child qualities: good manners",
+        "questions": [
+            "What is your opinion on the importance of good manners in children?",
+            "Are good manners an important quality for children?",
+            "Do you believe that good manners should be emphasized in children?",
+            "Would you consider good manners as a crucial characteristic in children?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q8": {
+        "description": "Important child qualities: independence",
+        "questions": [
+            "How important is independence in a child?",
+            "Is independence mentioned as an important quality in a child?",
+            "Do you think independence is an important quality in a child?",
+            "Do you know if independence is considered an important quality in a child?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q9": {
+        "description": "Important child qualities: hard work",
+        "questions": [
+            "Do you consider hard work an important quality in a child?",
+            "Is hard work a quality that you think is important for a child?",
+            "Do you believe that hard work is an important trait for a child?",
+            "In your opinion, is hard work an important child quality?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q10": {
+        "description": "Important child qualities: feeling of responsibility",
+        "questions": [
+            "Do you consider feeling of responsibility as an important child quality?",
+            "Is feeling of responsibility mentioned as an important child quality?",
+            "Are you aware of feeling of responsibility as an important child quality?",
+            "Do you know if feeling of responsibility is considered important for children?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q11": {
+        "description": "Important child qualities: imagination",
+        "questions": [
+            "What do you think about the importance of imagination in a child?",
+            "Is imagination an important quality for a child?",
+            "Do you believe that imagination is a significant attribute for a child?",
+            "Are you of the opinion that imagination plays a crucial role in a child's development?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q12": {
+        "description": "Important child qualities: tolerance and respect for other people",
+        "questions": [
+            "Do you think it is important for children to have tolerance and respect for other people?",
+            "Do you believe tolerance and respect for other people are essential qualities for children?",
+            "Are tolerance and respect for other people important qualities that children should possess?",
+            "Do you consider tolerance and respect for other people to be significant when it comes to children?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q13": {
+        "description": "Important child qualities: thrift saving money and things",
+        "questions": [
+            "How important do you consider thrift and saving money and things in a child?",
+            "Do you think thrift and saving money and things are important qualities in a child?",
+            "Are thrift and saving money and things qualities that you think are important for a child?",
+            "Would you say thrift and saving money and things are important characteristics to have as a child?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q14": {
+        "description": "Important child qualities: determination perseverance",
+        "questions": [
+            "How important is determination and perseverance in a child?",
+            "Are determination and perseverance qualities that should be mentioned in a child?",
+            "Do you believe determination and perseverance are important qualities in a child?",
+            "Would you say determination and perseverance are qualities that are not known in a child?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q15": {
+        "description": "Important child qualities: religious faith",
+        "questions": [
+            "How important is religious faith in a child?",
+            "Is religious faith an important quality for a child?",
+            "Does religious faith play a significant role in a child's development?",
+            "Do you consider religious faith to be an important trait in children?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q16": {
+        "description": "Important child qualities: unselfishness",
+        "questions": [
+            "What do you think about the importance of unselfishness in a child?",
+            "In your opinion, is unselfishness an important quality for a child to possess?",
+            "Is unselfishness something that should be valued in children?",
+            "When considering child qualities, do you think unselfishness is significant?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q17": {
+        "description": "Important child qualities: obedience",
+        "questions": [
+            "What is your opinion on the importance of obedience in a child?",
+            "Do you consider obedience to be an important quality in a child?",
+            "Is obedience a quality that should be emphasized in children?",
+            "In your perspective, how significant is obedience when it comes to child development?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q18": {
+        "description": "Neighbors: Drug addicts",
+        "questions": [
+            "What do you think about your neighbors being drug addicts?",
+            "How important do you consider it that your neighbors are drug addicts?",
+            "Are your neighbors being drug addicts mentioned as a concern to you?",
+            "Do you know if your neighbors are drug addicts?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q19": {
+        "description": "Neighbors: People of a different race",
+        "questions": [
+            "Do you think it is important to have neighbors who are people of a different race?",
+            "Is the presence of neighbors who are people of a different race not mentioned in your neighborhood?",
+            "Are you unsure whether you have neighbors who are people of a different race?",
+            "Do you have neighbors who are people of a different race but you don't know?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q20": {
+        "description": "Neighbors: People who have AIDS",
+        "questions": [
+            "How important do you think it is to have support services in place for neighbors who have AIDS?",
+            "To what extent do you believe the topic of neighbors who have AIDS should be discussed openly in the community?",
+            "Are you knowledgeable about the available resources and assistance for neighbors who have AIDS?",
+            "How aware are you of the specific challenges and needs faced by neighbors who have AIDS?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q21": {
+        "description": "Neighbors: Immigrants/foreign workers",
+        "questions": [
+            "How important do you think it is to have neighbors who are immigrants/foreign workers?",
+            "In your opinion, is it mentioned whether your neighbors are immigrants/foreign workers?",
+            "Do you know if your neighbors are immigrants/foreign workers?",
+            "Are your neighbors' immigrant/foreign worker status not mentioned to you?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q22": {
+        "description": "Neighbors: Homosexuals",
+        "questions": [
+            "What is your opinion on neighbors who are homosexuals?",
+            "How would you feel about having homosexual neighbors?",
+            "Do you think it is important to mention the sexual orientation of your neighbors?",
+            "Do you know the sexual orientation of your neighbors?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q23": {
+        "description": "Neighbors: People of a different religion",
+        "questions": [
+            "What is your opinion on having neighbors who practice a different religion?",
+            "In your view, does the religious affiliation of your neighbors play a significant role?",
+            "Do you think it is important for neighbors to disclose their religious beliefs?",
+            "Are you aware of the religious background of your neighbors?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q24": {
+        "description": "Neighbors: Heavy drinkers",
+        "questions": [
+            "Are your neighbors heavy drinkers?",
+            "Do you consider your neighbors to be heavy drinkers?",
+            "Would you say that your neighbors are heavy drinkers?",
+            "Are heavy drinking habits of neighbors important to you?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q26": {
+        "description": "Neighbors: People who speak a different language",
+        "questions": [
+            "How important is it to you that neighbors speak a different language?",
+            "Is it mentioned to you that neighbors should speak a different language?",
+            "Do you know if having neighbors who speak a different language is important?",
+            "Are you aware if neighbors speaking a different language is mentioned?"
+        ],
+        "options": [
+            "Important",
+            "Not mentioned",
+            "Don't know"
+        ]
+    },
+    "Q27": {
+        "description": "One of main goals in life has been to make my parents proud",
+        "questions": [
+            "To what extent is making my parents proud one of my main goals in life?",
+            "How much do I strive to make my parents proud in life?",
+            "To what degree do I aim to make my parents proud in life?",
+            "Do I consider making my parents proud as one of my primary life goals?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q28": {
+        "description": "Pre-school child suffers with working mother",
+        "questions": [
+            "Do you believe that a pre-school child suffers when their mother works?",
+            "Are you of the opinion that a working mother negatively affects her pre-school child?",
+            "Do you agree that a pre-school child faces difficulties due to their mother's employment?",
+            "Are you inclined to believe that a working mother has a detrimental impact on her pre-school child?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q29": {
+        "description": "Men make better political leaders than women do",
+        "questions": [
+            "Do you agree strongly, agree, disagree, strongly disagree, or don't know whether men make better political leaders than women do?",
+            "Would you say you agree strongly, agree, disagree, strongly disagree, or don't know with the statement that men make better political leaders than women do?",
+            "In your opinion, do you agree strongly, agree, disagree, strongly disagree, or don't know that men make better political leaders than women do?",
+            "Is your standpoint to agree strongly, agree, disagree, strongly disagree, or don't know when it comes to men making better political leaders than women do?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q30": {
+        "description": "University is more important for a boy than for a girl",
+        "questions": [
+            "Do you believe that university is more important for a boy than for a girl?",
+            "In your opinion, is university more important for a boy than for a girl?",
+            "Do you agree that university holds more significance for a boy than for a girl?",
+            "Is it your view that university is more important for a boy than for a girl?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q31": {
+        "description": "Men make better business executives than women do",
+        "questions": [
+            "Do you believe that men make better business executives than women do?",
+            "In your opinion, do men excel more as business executives compared to women?",
+            "Do you agree with the statement that men are better business executives than women?",
+            "Do you think women are less effective as business executives compared to men?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q32": {
+        "description": "Being a housewife just as fulfilling",
+        "questions": [
+            "Is being a housewife just as fulfilling as having a career?",
+            "Do you believe that being a housewife is as fulfilling as having a career?",
+            "In your opinion, is being a housewife equally fulfilling as having a career?",
+            "Would you agree that being a housewife can be just as fulfilling as having a career?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know"
+        ]
+    },
+    "Q33": {
+        "description": "Jobs scarce: Men should have more right to a job than women",
+        "questions": [
+            "Do you agree strongly or disagree strongly that jobs should be scarce for both men and women?",
+            "Do you agree or disagree that men should have more right to a job than women?",
+            "In your opinion, do you neither agree nor disagree that jobs should be scarce for men, and women?",
+            "Do you strongly disagree or don't know whether men should have more right to a job than women?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q34": {
+        "description": "Jobs scarce: Employers should give priority to (nation) people than immigrants",
+        "questions": [
+            "Should employers prioritize (nation) people over immigrants due to job scarcity?",
+            "Do you agree that employers should give preference to (nation) people over immigrants when jobs are scarce?",
+            "Is it fair for employers to prioritize (nation) people instead of immigrants during job shortages?",
+            "Do you think employers should prioritize (nation) individuals rather than immigrants in times of job scarcity?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q35": {
+        "description": "Problem if women have more income than husband",
+        "questions": [
+            "What is your opinion on the problem if women have more income than their husband?",
+            "How do you feel about the situation where a woman earns more money than her husband?",
+            "Do you believe there is a problem when the wife's income exceeds that of her husband?",
+            "What is your stance on the issue of women earning more income than their husband?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q37": {
+        "description": "Duty towards society to have children",
+        "questions": [
+            "Is there a duty towards society to have children?",
+            "Do you believe it is a duty towards society to have children?",
+            "Do you think individuals have a duty towards society to have children?",
+            "Should people feel a duty towards society to have children?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q38": {
+        "description": "It is children duty to take care of ill parent",
+        "questions": [
+            "Do you believe it is the duty of children to take care of an ill parent?",
+            "Should children be responsible for taking care of an ill parent?",
+            "Do you agree that it is the obligation of children to care for an ill parent?",
+            "Is it the responsibility of children to look after an ill parent?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q39": {
+        "description": "People who don't work turn lazy",
+        "questions": [
+            "Do you believe that people who don't work turn lazy?",
+            "In your opinion, do you think people who don't work tend to become lazy?",
+            "Are you of the belief that individuals who don't work often become lazy?",
+            "Do you agree or disagree with the statement that people who don't work become lazy?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q40": {
+        "description": "Work is a duty towards society",
+        "questions": [
+            "Do you believe that work is a duty towards society?",
+            "Is work considered a duty towards society?",
+            "To what extent do you agree that work is a duty towards society?",
+            "Do you think work should be seen as a duty towards society?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q41": {
+        "description": "Work should  always come first even if it means less spare time",
+        "questions": [
+            "Should work always come first even if it means less spare time?",
+            "Do you believe work should always take priority over spare time?",
+            "Is it acceptable for work to be prioritized over spare time?",
+            "Do you think sacrificing spare time for work is necessary in all situations?"
+        ],
+        "options": [
+            "Agree strongly",
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Disagree strongly",
+            "Don't know"
+        ]
+    },
+    "Q42": {
+        "description": "Basic kinds of attitudes concerning society",
+        "questions": [
+            "What are your thoughts on the overall way our society is organized?",
+            "How do you believe our society can be improved?",
+            "What is your stance on defending our present society against subversive forces?",
+            "Do you have a clear opinion about the kind of attitudes our society should adopt?"
+        ],
+        "options": [
+            "The entire way our society is organized must be radically changed by revolutionary action",
+            "Our society must be gradually improved by reforms",
+            "Our present society must be valiantly defended against all subversive forces",
+            "Don't know"
+        ]
+    },
+    "Q43": {
+        "description": "Future changes: Less importance placed on work",
+        "questions": [
+            "What is your opinion on future changes: less importance placed on work?",
+            "How do you view the future changes regarding less importance placed on work?",
+            "What are your thoughts on the future trend of placing less importance on work?",
+            "What is your perspective on the decreasing emphasis on work in the future?"
+        ],
+        "options": [
+            "Good thing",
+            "Bad thing",
+            "Don't mind",
+            "Don't know"
+        ]
+    },
+    "Q44": {
+        "description": "Future changes: More emphasis on technology",
+        "questions": [
+            "What are your thoughts on future changes with more emphasis on technology?",
+            "How do you feel about the possibility of more emphasis on technology in the future?",
+            "What is your opinion regarding the increased focus on technology in upcoming changes?",
+            "What is your stance on the upcoming changes that involve a greater emphasis on technology?"
+        ],
+        "options": [
+            "Good thing",
+            "Bad thing",
+            "Don't mind",
+            "Don't know"
+        ]
+    },
+    "Q45": {
+        "description": "Future changes: Greater respect for authority",
+        "questions": [
+            "What are your thoughts on the future changes regarding greater respect for authority?",
+            "How do you feel about the potential increase in respect for authority in the future?",
+            "What is your opinion on the expected rise in respect for authority in the coming years?",
+            "What are your sentiments regarding the future shift towards greater respect for authority?"
+        ],
+        "options": [
+            "Good thing",
+            "Bad thing",
+            "Don't mind",
+            "Don't know"
+        ]
+    },
+    "Q46": {
+        "description": "Feeling of happiness",
+        "questions": [
+            "How would you rate your feeling of happiness?",
+            "On a scale of 1 to 5, with 1 being not happy at all and 5 being very happy, how would you rate your level of happiness?",
+            "Do you consider yourself a happy person?",
+            "To what extent do you feel happy on a daily basis?"
+        ],
+        "options": [
+            "Very happy",
+            "Quite happy",
+            "Not very happy",
+            "Not at all happy",
+            "Don't know"
+        ]
+    },
+    "Q47": {
+        "description": "State of health (subjective)",
+        "questions": [
+            "How would you describe your current state of health?",
+            "Please rate your subjective state of health.",
+            "On a scale of very good to very poor, how would you rate your health?",
+            "In terms of your overall well-being, how would you assess your health?"
+        ],
+        "options": [
+            "Very good",
+            "Good",
+            "Fair",
+            "Poor",
+            "Very poor"
+        ]
+    },
+    "Q51": {
+        "description": "Frequency you/family (last 12 month): Gone without enough food to eat",
+        "questions": [
+            "How often have you or your family gone without enough food to eat in the last 12 months?",
+            "In the past year, how frequently have you or your family experienced not having enough food to eat?",
+            "Have you or your family sometimes gone without enough food to eat in the last 12 months?",
+            "During the last 12 months, how frequently have you or your family faced the situation of not having enough food to eat?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q52": {
+        "description": "Frequency you/family (last 12 month): Felt unsafe from crime in your own home",
+        "questions": [
+            "Frequency you felt unsafe from crime in your own home?",
+            "How often did you feel unsafe from crime in your own home?",
+            "In the last 12 months, how frequently have you felt unsafe from crime in your own home?",
+            "Did you feel unsafe from crime in your own home often, sometimes, rarely, or never in the past year?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q53": {
+        "description": "Frequency you/family (last 12 month): Gone without needed medicine or treatment that you needed",
+        "questions": [
+            "How often have you or your family gone without needed medicine or treatment that you needed in the last 12 months?",
+            "What is the frequency of you or your family going without needed medicine or treatment that you needed in the last 12 months?",
+            "In the last 12 months, how frequently have you or your family gone without the medicine or treatment you needed?",
+            "Have you or your family rarely, sometimes, or often gone without needed medicine or treatment that you needed in the last 12 months?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q54": {
+        "description": "Frequency you/family (last 12 month): Gone without a cash income",
+        "questions": [
+            "Frequency you/family (last 12 month): Gone without a cash income?",
+            "How frequently have you or your family gone without a cash income in the last 12 months?",
+            "In the past year, how often did you or your family experience a period without any cash income?",
+            "Have you or your family experienced a lack of cash income in the last 12 months? If so, how frequently?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q55": {
+        "description": "In the last 12 month, how often have you or your family: Gone without a safe shelter over your head",
+        "questions": [
+            "In the last 12 months, how often have you or your family gone without a safe shelter over your head?",
+            "During the past year, how frequently have you or your family experienced a lack of secure housing?",
+            "In the past 12 months, how frequently did you or your family not have access to a safe shelter?",
+            "Have you or your family experienced periods without a secure shelter in the last year? If yes, how often?"
+        ],
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never",
+            "Don't know"
+        ]
+    },
+    "Q58": {
+        "description": "Trust: Your family",
+        "questions": [
+            "How much do you trust your family?",
+            "Is there a significant level of trust in your family?",
+            "To what extent do you trust your family?",
+            "In general, how much trust do you have in your family?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q59": {
+        "description": "Trust: Your neighborhood",
+        "questions": [
+            "How much do you trust your neighborhood?",
+            "To what extent do you place trust in your neighborhood?",
+            "How would you rate the level of trust you have for your neighborhood?",
+            "Do you have a high level of trust in your neighborhood?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q60": {
+        "description": "Trust: People you know personally",
+        "questions": [
+            "How much do you trust people you know personally?",
+            "To what extent do you trust people you know personally?",
+            "Do you trust people you know personally?",
+            "Would you say your level of trust towards people you know personally is high or low?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q61": {
+        "description": "Trust: People you meet for the first time",
+        "questions": [
+            "How much do you trust people you meet for the first time?",
+            "To what extent do you trust individuals you encounter for the first time?",
+            "What level of trust do you have towards people you meet for the first time?",
+            "How would you rate your level of trust in individuals when you initially meet them?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q62": {
+        "description": "Trust: People of another religion",
+        "questions": [
+            "How much do you trust people of another religion?",
+            "To what extent do you trust people of a different religion?",
+            "Would you say you trust individuals of another religion?",
+            "Do you have trust in individuals from a different religion?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q63": {
+        "description": "Trust: People of another nationality",
+        "questions": [
+            "How much do you trust people of another nationality?",
+            "To what extent do you trust individuals of a different nationality?",
+            "How much trust do you have for people from another nationality?",
+            "Do you trust individuals of another nationality?"
+        ],
+        "options": [
+            "Trust completely",
+            "Trust somewhat",
+            "Do not trust very much",
+            "Do not trust at all",
+            "Don't know"
+        ]
+    },
+    "Q64": {
+        "description": "Confidence: Churches",
+        "questions": [
+            "How much confidence do you have in churches?",
+            "To what extent do you trust churches?",
+            "How would you rate your level of confidence in churches?",
+            "Do you have much confidence in churches?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q66": {
+        "description": "Confidence: The Press",
+        "questions": [
+            "How much confidence do you have in the press?",
+            "Do you have a great deal of confidence in the press?",
+            "To what extent do you have confidence in the press?",
+            "Would you say you have quite a lot of confidence in the press?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q67": {
+        "description": "Confidence: Television",
+        "questions": [
+            "How much confidence do you have in television?",
+            "To what extent do you trust television?",
+            "How comfortable are you relying on television?",
+            "What is your level of certainty in television?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q68": {
+        "description": "Confidence: Labor Unions",
+        "questions": [
+            "How much confidence do you have in labor unions?",
+            "To what extent do you trust labor unions?",
+            "What level of confidence do you place in labor unions?",
+            "Do you have faith in labor unions?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q72": {
+        "description": "Confidence: The Political Parties",
+        "questions": [
+            "How much confidence do you have in the political parties?",
+            "To what extent do you trust the political parties?",
+            "How would you rate your level of confidence in the political parties?",
+            "Do you have a high or low level of confidence in the political parties?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q73": {
+        "description": "Confidence: Parliament",
+        "questions": [
+            "How confident are you in Parliament?",
+            "To what extent do you have confidence in Parliament?",
+            "What level of confidence do you have in Parliament?",
+            "In terms of confidence, how would you rate Parliament?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q74": {
+        "description": "Confidence: The Civil Services",
+        "questions": [
+            "How much confidence do you have in the Civil Services?",
+            "To what extent do you have confidence in the Civil Services?",
+            "How would you rate your level of confidence in the Civil Services?",
+            "Do you have confidence in the Civil Services?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q75": {
+        "description": "Confidence: Universities (Private)",
+        "questions": [
+            "Please rate your confidence in universities (private):",
+            "On a scale of 1-5, how confident are you in universities (private)?",
+            "How much confidence do you have in universities (private)?",
+            "With regards to universities (private), how confident are you?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q77": {
+        "description": "Confidence: Major Companies",
+        "questions": [
+            "How much confidence do you have in major companies?",
+            "On a scale of 1 to 5, how confident are you in major companies?",
+            "Do you feel major companies deserve your confidence?",
+            "In general, how would you rate your confidence in major companies?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q78": {
+        "description": "Confidence: Private banks",
+        "questions": [
+            "Please rate your confidence level in private banks.",
+            "On a scale of 1 to 5, how much confidence do you have in private banks?",
+            "How would you describe your level of confidence in private banks?",
+            "To what extent do you trust private banks?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q79": {
+        "description": "Confidence: The Environmental Protection Movement",
+        "questions": [
+            "How much confidence do you have in the Environmental Protection Movement?",
+            "To what extent do you trust the Environmental Protection Movement?",
+            "How much faith do you have in the Environmental Protection Movement?",
+            "How confident are you in the Environmental Protection Movement?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q80": {
+        "description": "Confidence: The Women's Movement",
+        "questions": [
+            "How much confidence do you have in 'Confidence: The Women's Movement'?",
+            "On a scale of 1 to 5, how much confidence do you have in 'Confidence: The Women's Movement'?",
+            "To what extent do you trust 'Confidence: The Women's Movement'?",
+            "How would you rate your confidence in 'Confidence: The Women's Movement'?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q81": {
+        "description": "Confidence: Charitable or humanitarian organizations",
+        "questions": [
+            "How much confidence do you have in charitable or humanitarian organizations?",
+            "To what extent do you have confidence in charitable or humanitarian organizations?",
+            "How would you rate your level of confidence in charitable or humanitarian organizations?",
+            "Do you have confidence in charitable or humanitarian organizations?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q82": {
+        "description": "Confidence: Major regional organization (combined from country-specific)",
+        "questions": [
+            "How much confidence do you have in the major regional organization (combined from country-specific)?",
+            "To what extent do you trust the major regional organization (combined from country-specific)?",
+            "How would you rate your level of confidence in the major regional organization (combined from country-specific)?",
+            "How comfortable are you with relying on the major regional organization (combined from country-specific)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q83": {
+        "description": "Confidence: The United Nations (UN)",
+        "questions": [
+            "How much confidence do you have in the United Nations (UN)?",
+            "To what extent do you trust the United Nations (UN)?",
+            "In your opinion, how strong is your confidence in the United Nations (UN)?",
+            "How would you rate your level of confidence in the United Nations (UN)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q84": {
+        "description": "Confidence: International Monetary Found (IMF)",
+        "questions": [
+            "How much confidence do you have in the International Monetary Found (IMF)?",
+            "To what extent do you trust the International Monetary Found (IMF)?",
+            "How would you rate your level of confidence in the International Monetary Found (IMF)?",
+            "Do you have a positive opinion about the International Monetary Found (IMF)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q85": {
+        "description": "Confidence: International Criminal Court (ICC)",
+        "questions": [
+            "What level of confidence do you have in the International Criminal Court (ICC)?",
+            "How much confidence do you place in the International Criminal Court (ICC)?",
+            "To what extent do you trust the International Criminal Court (ICC)?",
+            "How strongly do you believe in the effectiveness of the International Criminal Court (ICC)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q86": {
+        "description": "Confidence: North Atlantic Treaty Organization (NATO)",
+        "questions": [
+            "How much confidence do you have in the North Atlantic Treaty Organization (NATO)?",
+            "To what extent do you trust the North Atlantic Treaty Organization (NATO)?",
+            "What is your level of confidence in the North Atlantic Treaty Organization (NATO)?",
+            "In your opinion, how much faith do you have in the North Atlantic Treaty Organization (NATO)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q87": {
+        "description": "Confidence: The World Bank (WB)",
+        "questions": [
+            "How much confidence do you have in the World Bank (WB)?",
+            "To what extent do you trust the World Bank (WB)?",
+            "How would you rate your level of confidence in the World Bank (WB)?",
+            "Do you have a high level of confidence in the World Bank (WB)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q88": {
+        "description": "Confidence: The World Health Organization (WHO)",
+        "questions": [
+            "How much confidence do you have in the World Health Organization (WHO)?",
+            "To what extent do you trust the World Health Organization (WHO)?",
+            "In general, how much faith do you have in the World Health Organization (WHO)?",
+            "How strongly do you believe in the credibility of the World Health Organization (WHO)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q89": {
+        "description": "Confidence: The World Trade Organization (WTO)",
+        "questions": [
+            "How much confidence do you have in the World Trade Organization (WTO)?",
+            "What level of confidence do you hold in the World Trade Organization (WTO)?",
+            "To what extent do you trust the World Trade Organization (WTO)?",
+            "What is your level of confidence in the World Trade Organization (WTO)?"
+        ],
+        "options": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all",
+            "Don't know"
+        ]
+    },
+    "Q90": {
+        "description": "International organizations: being effective vs being democratic",
+        "questions": [
+            "On a scale of 1 to 10, how would you rate the importance of international organizations being effective versus being democratic?",
+            "Please indicate your opinion on a scale of 1 to 10, with 1 representing the importance of international organizations being effective and 10 representing the importance of being democratic.",
+            "In terms of international organizations, where do you stand on the spectrum of prioritizing effectiveness (1) over democracy (10)?",
+            "How would you rate the balance between effectiveness and democracy in international organizations on a scale of 1 to 10?"
+        ],
+        "options": [
+            "Being effective",
+            "Being democratic"
+        ],
+        "scale": true
+    },
+    "Q106": {
+        "description": "Incomes should be made more equal vs There should be greater incentives for individual effort",
+        "questions": [
+            "On a scale of 1 to 10, how strongly do you agree with the statement 'Incomes should be made more equal'?",
+            "Please rate your level of support for the idea that 'There should be greater incentives for individual effort' on a scale of 1 to 10.",
+            "To what extent do you believe 'Incomes should be made more equal'? Rate your opinion on a scale of 1 to 10.",
+            "How much do you agree with the notion that 'There should be greater incentives for individual effort'? Please rate on a scale of 1 to 10."
+        ],
+        "options": [
+            "Incomes should be made more equal",
+            "There should be greater incentives for individual effort"
+        ],
+        "scale": true
+    },
+    "Q107": {
+        "description": "Private vs state ownership of business",
+        "questions": [
+            "On a scale of 1 to 10, where “1” means “Private ownership of business and industry should be increased” and “10” means “Government ownership of business and industry should be increased,” please indicate your preference.", 
+            "Please rate your stance on private vs state ownership of business and industry using a scale of 1 to 10, where “1” indicates a preference for increased private ownership and “10” indicates a preference for increased government ownership.", 
+            "Using a scale of 1 to 10, where “1” denotes a desire for increased private ownership of business and industry and “10” denotes a desire for increased government ownership, please indicate your opinion.", 
+            "Indicate your preference regarding private vs state ownership of business and industry on a scale of 1 to 10. “1” signifies a preference for increased private ownership, while “10” signifies a preference for increased government ownership."
+        ],
+        "options": [
+            "Private ownership of business and industry should be increased",
+            "Government ownership of business and industry should be increased"
+        ],
+        "scale": true
+    },
+    "Q108": {
+        "description": "Government's vs individual's responsibility",
+        "questions": [
+            "To what extent do you believe that the government should take more responsibility to ensure that everyone is provided for?",
+            "How much responsibility do you think the government should have in ensuring that everyone is provided for?",
+            "On a scale of 1 to 10, where 1 means the government should take more responsibility and 10 means people should take more responsibility, what is your opinion?",
+            "In terms of responsibility, where would you rank the government and individuals on a scale of 1 to 10?"
+        ],
+        "options": [
+            "Government should take more responsibility to ensure that everyone is provided for",
+            "People should take more responsibility to provide for themselves"
+        ],
+        "scale": true
+    },
+    "Q110": {
+        "description": "Success: hard work vs luck",
+        "questions": [
+            "On a scale of 1-10, with 1 meaning 'In the long run, hard work usually brings a better life' and 10 meaning 'Hard work doesn't generally bring success—it's more a matter of luck and connections', what is your opinion on the role of luck in achieving success?",
+            "How much do you believe hard work contributes to success on a scale of 1-10, with 1 meaning 'In the long run, hard work usually brings a better life' and 10 meaning 'Hard work doesn't generally bring success—it's more a matter of luck and connections'?",
+            "To what extent do you think success is attributed to hard work compared to luck and connections? Please rate on a scale of 1-10, with 1 being 'In the long run, hard work usually brings a better life' and 10 being 'Hard work doesn't generally bring success—it's more a matter of luck and connections'.",
+            "Please rate your belief in the influence of luck and hard work on success using a scale of 1-10, with 1 representing 'In the long run, hard work usually brings a better life' and 10 representing 'Hard work doesn't generally bring success—it's more a matter of luck and connections'."
+        ],
+        "options": [
+            "In the long run, hard work usually brings a better life",
+            "Hard work doesn't generally bring success—it's more a matter of luck and connections"
+        ],
+        "scale": true
+    },
+    "Q112": {
+        "description": "Perceptions of corruption in the country",
+        "questions": [
+            "On a scale of 1 to 10, how would you rate the level of corruption in your country?",
+            "Please indicate your perception of corruption in your country using a scale of 1 to 10.",
+            "To what extent do you believe there is corruption in your country? Please rate on a scale of 1 to 10.",
+            "How prevalent do you consider corruption to be in your country? Rate from 1 to 10."
+        ],
+        "options": [
+            "There is no corruption in my country",
+            "There is abundant corruption in my country"
+        ],
+        "scale": true
+    },
+    "Q120": {
+        "description": "Risk to be held accountable for giving or receiving a bribe",
+        "questions": [
+            "On a scale of 1 to 10, how much risk do you think there is to be held accountable for giving or receiving a bribe?",
+            "Please rate the level of risk, from 1 to 10, for being held accountable for giving or receiving a bribe.",
+            "From 1 to 10, how likely do you perceive the risk of being held accountable for giving or receiving a bribe?",
+            "Using a scale of 1 to 10, how high do you think the risk is to be held accountable for giving or receiving a bribe?"
+        ],
+        "options": [
+            "No risk at all",
+            "Very high risk"
+        ],
+        "scale": true
+    },
+    "Q122": {
+        "description": "Immigration in your country: Fills useful jobs in the workforce",
+        "questions": [
+            "What is your opinion on immigration in your country? Does it fill useful jobs in the workforce?",
+            "Do you believe that immigration in your country contributes to filling useful jobs in the workforce?",
+            "In your opinion, does immigration play a role in filling useful jobs in the workforce of your country?",
+            "Would you say that immigration in your country fills useful jobs in the workforce?"
+        ],
+        "options": [
+            "Agree",
+            "Hard to say",
+            "Disagree"
+        ],
+        "scale": false
+    },
+    "Q123": {
+        "description": "Immigration in your country: Strengthens cultural diversity",
+        "questions": [
+            "Do you believe that immigration in your country strengthens cultural diversity?",
+            "In your opinion, does immigration in your country contribute to the enhancement of cultural diversity?",
+            "Is it your view that immigration in your country promotes cultural diversity?",
+            "Do you think that the presence of immigrants in your country leads to a stronger cultural diversity?"
+        ],
+        "options": [
+            "Agree",
+            "Hard to say",
+            "Disagree"
+        ],
+        "scale": false
+    },
+    "Q124": {
+        "description": "Immigration in your country: Increases the crime rate",
+        "questions": [
+            "Does immigration in your country increase the crime rate?",
+            "Is it difficult to determine whether immigration in your country increases the crime rate?",
+            "Do you disagree that immigration in your country increases the crime rate?",
+            "Are you uncertain whether immigration in your country increases the crime rate?"
+        ],
+        "options": [
+            "Agree",
+            "Hard to say",
+            "Disagree"
+        ],
+        "scale": false
+    },
+    "Q125": {
+        "description": "Immigration in your country: Gives asylum to political refugees",
+        "questions": [
+            "What is your opinion on immigration in your country? Does it provide asylum to political refugees?",
+            "In your country, does immigration policy extend asylum to political refugees? Please indicate your viewpoint.",
+            "Are political refugees given asylum in your country through its immigration system? Please select your response.",
+            "Do you agree or disagree with the statement that immigration in your country provides asylum to political refugees?"
+        ],
+        "options": [
+            "Agree",
+            "Hard to say",
+            "Disagree"
+        ],
+        "scale": false
+    },
+    "Q126": {
+        "description": "Immigration in your country: Increases the risks of terrorism",
+        "questions": [
+            "Do you agree that immigration in your country increases the risks of terrorism?",
+            "In your opinion, is it hard to say whether immigration in your country increases the risks of terrorism?",
+            "Do you disagree that immigration in your country increases the risks of terrorism?",
+            "Is it difficult for you to determine whether immigration in your country increases the risks of terrorism?"
+        ],
+        "options": [
+            "Agree",
+            "Hard to say",
+            "Disagree"
+        ],
+        "scale": false
+    },
+    "Q127": {
+        "description": "Immigration in your country: Helps poor people establish new lives",
+        "questions": [
+            "Do you think immigration in your country helps poor people establish new lives?",
+            "Do you believe immigration in your country assists poor individuals in establishing new lives?",
+            "Is it your opinion that immigration in your country aids poor people in building new lives?",
+            "Do you agree that immigration in your country supports poor individuals in starting anew?"
+        ],
+        "options": [
+            "Agree",
+            "Hard to say",
+            "Disagree"
+        ],
+        "scale": false
+    },
+    "Q128": {
+        "description": "Immigration in your country: Increases unemployment",
+        "questions": [
+            "What is your opinion on the statement: Immigration in your country increases unemployment?",
+            "Do you agree or disagree with the statement: Immigration in your country increases unemployment?",
+            "Is it hard to say whether immigration in your country increases unemployment?",
+            "Would you disagree or agree that immigration in your country increases unemployment?"
+        ],
+        "options": [
+            "Agree",
+            "Hard to say",
+            "Disagree"
+        ],
+        "scale": false
+    },
+    "Q129": {
+        "description": "Immigration in your country: Leads to social conflict",
+        "questions": [
+            "Do you believe that immigration in your country leads to social conflict?",
+            "In your opinion, does immigration in your country cause social conflict?",
+            "Is it your view that immigration in your country results in social conflict?",
+            "Do you agree that immigration in your country leads to social conflict?"
+        ],
+        "options": [
+            "Agree",
+            "Hard to say",
+            "Disagree"
+        ],
+        "scale": false
+    },
+    "Q142": {
+        "description": "Worries: Losing my job or not finding a job",
+        "questions": [
+            "How worried are you about losing your job or not finding a job? (Very much, A good deal, Not much, Not at all)",
+            "To what extent does the fear of losing your job or not finding a job concern you? (Very much, A good deal, Not much, Not at all)",
+            "Are you significantly concerned about losing your job or not finding a job? (Very much, A good deal, Not much, Not at all)",
+            "On a scale of Very much to Not at all, how much do you worry about losing your job or not finding a job?"
+        ],
+        "options": [
+            "Very much",
+            "A good deal",
+            "Not much",
+            "Not at all"
+        ],
+        "scale": false
+    },
+    "Q143": {
+        "description": "Worries: Not being able to give one's children a good education",
+        "questions": [
+            "To what extent are you worried about not being able to give your children a good education?",
+            "How concerned are you about not being able to provide a good education for your children?",
+            "To what degree are you worried about your ability to give your children a good education?",
+            "How much do you worry about not being able to ensure a good education for your children?"
+        ],
+        "options": [
+            "Very much",
+            "A good deal",
+            "Not much",
+            "Not at all"
+        ],
+        "scale": false
+    },
+    "Q144": {
+        "description": "Respondent was victim of a crime during the past year",
+        "questions": [
+            "Have you been a victim of a crime in the past year?",
+            "Did you experience any crime incidents in the last year?",
+            "During the past year, were you a victim of any crime?",
+            "In the past year, did you suffer from any criminal activities?"
+        ],
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "scale": false
+    },
+    "Q145": {
+        "description": "Respondent's family was victim of a crime during last year",
+        "questions": [
+            "Was your family a victim of a crime during last year?",
+            "Did your family experience any crime incidents in the last year?",
+            "During the past year, was your family targeted by any criminal activity?",
+            "In the last year, did any criminal offenses affect your family?"
+        ],
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "scale": false
+    },
+    "Q149": {
+        "description": "Freedom and Equality - Which more important",
+        "questions": [
+            "In your opinion, is freedom or equality more important?",
+            "Which do you consider to be more significant: freedom or equality?",
+            "When evaluating the importance, which holds greater value: freedom or equality?",
+            "Between freedom and equality, which of the two do you believe is more crucial?"
+        ],
+        "options": [
+            "Freedom",
+            "Equality"
+        ],
+        "scale": false
+    },
+    "Q150": {
+        "description": "Freedom and security - Which more important",
+        "questions": [
+            "Which is more important - freedom or security?",
+            "When it comes to importance, which ranks higher for you - freedom or security?",
+            "Between freedom and security, which holds a greater significance for you?",
+            "Which do you value more: freedom or security?"
+        ],
+        "options": [
+            "Freedom",
+            "Security"
+        ],
+        "scale": false
+    },
+    "Q151": {
+        "description": "Willingness to fight for country",
+        "questions": [
+            "Are you willing to fight for your country?",
+            "Would you be willing to fight for your country?",
+            "Do you have a willingness to fight for your country?",
+            "In the event of conflict, would you fight for your country?"
+        ],
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "scale": false
+    },
+    "Q158": {
+        "description": "Science and technology are making our lives healthier, easier, and more comfortable",
+        "questions": [
+            "On a scale of 1 to 10, how much do you agree that science and technology are making our lives healthier, easier, and more comfortable?", 
+            "Please rate your opinion from 1 to 10 on the statement: Science and technology are improving our lives by making them healthier, easier, and more comfortable.", 
+            "How much do you agree that science and technology contribute to a healthier, easier, and more comfortable life? Please rate from 1 to 10.", 
+            "Using a scale of 1 to 10, please indicate your level of agreement with the idea that science and technology are making our lives healthier, easier, and more comfortable."
+        ],
+        "options": [
+            "Completely disagree",
+            "Completely agree"
+        ],
+        "scale": true
+    },
+    "Q159": {
+        "description": "Because of science and technology, there will be more opportunities for the next generation",
+        "questions": [
+            "On a scale of 1-10, to what extent do you agree that there will be more opportunities for the next generation because of science and technology?",
+            "Please rate your level of agreement that science and technology will create more opportunities for the next generation on a scale of 1-10.",
+            "To what degree do you believe that science and technology will lead to increased opportunities for the next generation? Please rate on a scale of 1-10.",
+            "How strongly do you agree or disagree that science and technology will provide more opportunities for the next generation? Please rate from 1 to 10."
+        ],
+        "options": [
+            "Completely disagree",
+            "Completely agree"
+        ],
+        "scale": true
+    },
+    "Q160": {
+        "description": "We depend too much on science and not enough on faith",
+        "questions": [
+            "On a scale of 1-10, how much do you agree with the statement 'We depend too much on science and not enough on faith'?",
+            "Please rate your level of agreement with the statement 'We rely excessively on science and do not give enough importance to faith' using a scale of 1 to 10.",
+            "To what extent do you agree or disagree with the assertion that 'We place too much trust in science and neglect faith'? Rate your response on a scale of 1 to 10.",
+            "Using a 1-10 scale, indicate the level of agreement you have with the statement 'We tend to depend excessively on science and disregard faith'."
+        ],
+        "options": [
+            "Completely disagree",
+            "Completely agree"
+        ],
+        "scale": true
+    },
+    "Q161": {
+        "description": "One of the bad effects of science is that it breaks down people's ideas of right and wrong",
+        "questions": [
+            "One of the bad effects of science is that it breaks down people's ideas of right and wrong. To what extent do you disagree or agree with this statement? (1 = Completely disagree, 10 = Completely agree)",
+            "On a scale of 1 to 10, how much do you agree or disagree with the idea that science breaks down people's ideas of right and wrong?",
+            "Please rate your level of agreement or disagreement with the statement: Science has a negative impact on people's ideas of right and wrong. (1 = Completely disagree, 10 = Completely agree)",
+            "To what extent do you think science undermines people's notions of right and wrong? Please rate from 1 to 10, with 1 representing 'Completely disagree' and 10 representing 'Completely agree'"
+        ],
+        "options": [
+            "Completely disagree",
+            "Completely agree"
+        ],
+        "scale": true
+    },
+    "Q162": {
+        "description": "It is not important for me to know about science in my daily life",
+        "questions": [
+            "On a scale of 1 to 10, how much do you agree or disagree with the statement: 'It is not important for me to know about science in my daily life'?", 
+            "Please rate your level of agreement or disagreement with the statement: 'It is not important for me to know about science in my daily life' on a scale of 1 to 10.", 
+            "How much do you agree or disagree with the statement: 'It is not important for me to know about science in my daily life'? Use a scale of 1 to 10.", 
+            "Indicate your opinion on the statement: 'It is not important for me to know about science in my daily life' by rating it on a scale of 1 to 10."
+        ],
+        "options": [
+            "Completely disagree",
+            "Completely agree"
+        ],
+        "scale": true
+    },
+    "Q164": {
+        "description": "Importance of God",
+        "questions": [
+            "On a scale of 1 to 10, how important is God to you?",
+            "How much importance do you place on God in your life? Please use a scale of 1 to 10.",
+            "To what extent do you consider God to be important in your daily activities? Please rate using a scale of 1 to 10.",
+            "Please indicate the level of importance you attribute to God in your belief system. Rate on a scale of 1 to 10."
+        ],
+        "options": [
+            "Not at all important",
+            "Very important"
+        ],
+        "scale": true
+    },
+    "Q166": {
+        "description": "Believe in: life after death",
+        "questions": [
+            "Do you believe in life after death?",
+            "Is there life after death?",
+            "Do you think there is an existence after death?",
+            "Is it your belief that there is life after death?"
+        ],
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "scale": false
+    },
+    "Q167": {
+        "description": "Believe in: hell",
+        "questions": [
+            "Do you believe in hell?",
+            "Is your belief in hell strong?",
+            "Would you say you have a belief in hell?",
+            "Is the concept of hell something you believe in?"
+        ],
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "scale": false
+    },
+    "Q168": {
+        "description": "Believe in: heaven",
+        "questions": [
+            "Do you believe in heaven?",
+            "Are you a believer in heaven?",
+            "Do you think heaven exists?",
+            "Is the concept of heaven something you believe in?"
+        ],
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "scale": false
+    },
+    "Q169": {
+        "description": "Whenever science and religion conflict,  religion is always right",
+        "questions": [
+            "Do you believe that whenever science and religion conflict, religion is always right?",
+            "In your opinion, is religion always right when there is a conflict between science and religion?",
+            "Do you agree that religion is always correct when it contradicts science?",
+            "Do you think religion is right in all circumstances where it contradicts science?"
+        ],
+        "options": [
+            "Strongly agree",
+            "Agree",
+            "Disagree",
+            "Strongly disagree"
+        ],
+        "scale": false
+    },
+    "Q171": {
+        "description": "How often do you attend religious services",
+        "questions": [
+            "How frequently do you attend religious services?",
+            "How often do you go to religious services?",
+            "How frequently do you participate in religious services?",
+            "How often do you visit religious services?"
+        ],
+        "options": [
+            "More than once a week",
+            "Once a week",
+            "Once a month",
+            "Only on special holy days",
+            "Once a year",
+            "Less often",
+            "Never, practically never"
+        ],
+        "scale": false
+    },
+    "Q175": {
+        "description": "Meaning of religion: To make sense of life after death vs To make sense of life in this world",
+        "questions": [
+            "What is the purpose of religion? (Select one)",
+            "Which statement aligns more closely with your view of religion? (Choose one)",
+            "In your opinion, is the primary function of religion to understand life after death or to understand life in this world? (Select one)",
+            "When considering religion, which aspect of life do you believe it mainly seeks to explain? (Choose one)"
+        ],
+        "options": [
+            "To make sense of life after death",
+            "To make sense of life in this world"
+        ],
+        "scale": false
+    },
+    "Q176": {
+        "description": "Degree of agreement: Nowadays one often has trouble deciding which moral rules are the right ones to follow",
+        "questions": [
+            "On a scale of 1 to 10, how much do you agree with the statement: Nowadays one often has trouble deciding which moral rules are the right ones to follow? (1 = Completely agree, 10 = Completely disagree)",
+            "Please rate your agreement with the statement: Nowadays one often has trouble deciding which moral rules are the right ones to follow on a scale of 1 to 10. (1 = Completely agree, 10 = Completely disagree)",
+            "Indicate your level of agreement with the statement: Nowadays one often has trouble deciding which moral rules are the right ones to follow using a scale of 1 to 10. (1 = Completely agree, 10 = Completely disagree)",
+            "How much do you agree with the following statement? Nowadays one often has trouble deciding which moral rules are the right ones to follow. Please rate on a scale of 1 to 10, where 1 means you completely agree, and 10 means you completely disagree."
+        ],
+        "options": [
+            "Completely agree",
+            "Completely disagree"
+        ],
+        "scale": true
+    },
+    "Q177": {
+        "description": "Justifiable: Claiming government benefits to which you are not entitled",
+        "questions": [
+            "In what circumstances, if any, do you think it is justifiable to claim government benefits to which you are not entitled?",
+            "Under what conditions, if any, do you believe it is justifiable to claim government benefits to which you are not entitled?",
+            "Do you consider it justifiable to claim government benefits to which you are not entitled in certain situations? If so, when?",
+            "In your opinion, are there any scenarios where claiming government benefits to which you are not entitled is justifiable?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q178": {
+        "description": "Justifiable: Avoiding a fare on public transport",
+        "questions": [
+            "How often do you believe avoiding a fare on public transport is justifiable?",
+            "To what extent do you find it acceptable to avoid paying a fare on public transport?",
+            "In your opinion, when is it appropriate to avoid paying a fare on public transport?",
+            "How justified do you consider the act of avoiding a fare on public transport to be?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q179": {
+        "description": "Justifiable: Stealing property",
+        "questions": [
+            "Do you believe that stealing property is never justifiable?",
+            "Do you think stealing property is always justifiable?",
+            "In your opinion, is stealing property never justifiable?",
+            "Is it your belief that stealing property is always justifiable?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q180": {
+        "description": "Justifiable: Cheating on taxes",
+        "questions": [
+            "Do you believe that cheating on taxes is ever justifiable?",
+            "In your opinion, is cheating on taxes always wrong?",
+            "Do you think there are any circumstances where cheating on taxes can be justified?",
+            "Is it your belief that cheating on taxes should never be considered acceptable?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q181": {
+        "description": "Justifiable: Someone accepting a bribe in the course of their duties",
+        "questions": [
+            "What is your opinion on the justification of someone accepting a bribe in the course of their duties?",
+            "To what extent do you believe it is justifiable for someone to accept a bribe in the course of their duties?",
+            "In your view, is it ever acceptable for someone to accept a bribe in the course of their duties?",
+            "Do you think someone accepting a bribe in the course of their duties is always justified, never justified, or somewhere in between?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q184": {
+        "description": "Justifiable: Abortion",
+        "questions": [
+            "Do you believe that abortion is ever justifiable?",
+            "In your opinion, is abortion justifiable under any circumstances?",
+            "Do you think there are any situations in which abortion can be justified?",
+            "Is abortion always unjustifiable in your view?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q185": {
+        "description": "Justifiable: Divorce",
+        "questions": [
+            "Is divorce ever justifiable?",
+            "Do you believe divorce can be justified?",
+            "Can divorce be considered justifiable?",
+            "In your opinion, is there any situation where divorce can be justified?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q187": {
+        "description": "Justifiable: Suicide",
+        "questions": [
+            "What are your views on the justifiability of suicide?",
+            "Do you believe that suicide is ever justifiable?",
+            "When it comes to suicide, do you think there are circumstances that make it justifiable?",
+            "Is suicide something you consider to be morally justifiable in any situations?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q188": {
+        "description": "Justifiable: Euthanasia",
+        "questions": [
+            "What is your stance on the justifiability of euthanasia?",
+            "Do you believe euthanasia is justifiable in certain circumstances?",
+            "In your opinion, is euthanasia ever justifiable?",
+            "Should euthanasia be considered a justifiable option in specific cases?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q189": {
+        "description": "Justifiable: For a man to beat his wife",
+        "questions": [
+            "Is it justifiable for a man to beat his wife?",
+            "Do you believe a man beating his wife is justifiable?",
+            "In your opinion, is it ever acceptable for a man to beat his wife?",
+            "Do you think there are circumstances where it is justifiable for a man to beat his wife?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q190": {
+        "description": "Justifiable: Parents beating children",
+        "questions": [
+            "Do you consider it justifiable for parents to beat their children?",
+            "Is it ever justifiable for parents to use physical force on their children?",
+            "Do you believe parents have the right to physically discipline their children?",
+            "In your opinion, is it acceptable for parents to use physical punishment on their children?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q191": {
+        "description": "Justifiable: Violence against other people",
+        "questions": [
+            "Do you believe that violence against other people is ever justifiable?",
+            "In your opinion, is there any situation where violence against other people can be considered justifiable?",
+            "Do you think there are any circumstances in which violence against other people can be justified?",
+            "Is it possible for violence against other people to be justified in any scenario?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q192": {
+        "description": "Justifiable: Terrorism as a political, ideological or religious mean",
+        "questions": [
+            "Do you believe that terrorism is ever justifiable as a political means?",
+            "Is it possible for terrorism to be justifiable as an ideological means?",
+            "Do you think that terrorism could be considered justifiable as a religious means?",
+            "In your opinion, is terrorism ever a justifiable means to achieve political goals?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q194": {
+        "description": "Justifiable: Political violence",
+        "questions": [
+            "Do you believe that political violence is ever justifiable?",
+            "In your opinion, is there any circumstance in which political violence can be justified?",
+            "Do you think political violence can be morally justified under certain conditions?",
+            "Is it possible for political violence to be justified?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q195": {
+        "description": "Justifiable: Death penalty",
+        "questions": [
+            "Do you believe that the death penalty is justifiable?",
+            "In your opinion, is the death penalty ever justifiable?",
+            "Would you consider the death penalty to be justifiable in certain situations?",
+            "Do you think there are any circumstances in which the death penalty can be justified?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": false
+    },
+    "Q199": {
+        "description": "Interest in politics",
+        "questions": [
+            "How interested are you in politics?",
+            "To what extent are you interested in politics?",
+            "What is your level of interest in politics?",
+            "Would you describe yourself as interested in politics?"
+        ],
+        "options": [
+            "Very interested",
+            "Somewhat interested",
+            "Not very interested",
+            "Not at all interested"
+        ],
+        "scale": false
+    },
+    "Q209": {
+        "description": "Political action: Signing a petition",
+        "questions": [
+            "Have you ever signed a political action petition?",
+            "Are you considering signing a political action petition in the future?",
+            "Would you be willing to sign a political action petition?",
+            "Do you have any intention of signing a political action petition?"
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q210": {
+        "description": "Political action: Joining in boycotts",
+        "questions": [
+            "Have you ever participated in a political boycott?",
+            "Are you considering participating in a political boycott?",
+            "Would you be open to participating in a political boycott?",
+            "Is joining in a political boycott something you would never consider?"
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q211": {
+        "description": "Political action: Attending lawful/peaceful demonstrations",
+        "questions": [
+            "Have you ever attended a lawful/peaceful demonstration for political action?",
+            "Are you willing to attend lawful/peaceful demonstrations for political action in the future?",
+            "Would you consider attending a lawful/peaceful demonstration for political action?",
+            "Is attending lawful/peaceful demonstrations for political action something you would never do?"
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q212": {
+        "description": "Political action: Joining unofficial strikes",
+        "questions": [
+            "Have you ever participated in unofficial strikes for political action?",
+            "Are you open to the possibility of joining unofficial strikes for political action?",
+            "Would you consider engaging in unofficial strikes for political action?",
+            "Do you firmly believe that you would never take part in unofficial strikes for political action?"
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q221": {
+        "description": "Vote in elections: local level",
+        "questions": [
+            "How frequently do you vote in local level elections?",
+            "What is your usual practice in voting in local level elections?",
+            "Do you typically vote in local level elections or not?",
+            "Are you allowed to vote in local level elections?"
+        ],
+        "options": [
+            "Always",
+            "Usually",
+            "Never",
+            "Not allowed to vote"
+        ],
+        "scale": false
+    },
+    "Q222": {
+        "description": "Vote in elections: national level",
+        "questions": [
+            "How frequently do you vote in national level elections?",
+            "What is your usual voting pattern in national level elections?",
+            "Do you ever participate in national level elections?",
+            "Are you able to vote in national level elections?"
+        ],
+        "options": [
+            "Always",
+            "Usually",
+            "Never",
+            "Not allowed to vote"
+        ],
+        "scale": false
+    },
+    "Q224": {
+        "description": "How often in country's elections: Votes are counted fairly",
+        "questions": [
+            "How often are votes counted fairly in the country's elections?",
+            "In the country's elections, how frequently are votes counted fairly?",
+            "Do votes in the country's elections tend to be counted fairly most often or not often?",
+            "To what extent are votes in the country's elections counted fairly?"
+        ],
+        "options": [
+            "Very often",
+            "Fairly often",
+            "Not often",
+            "Not at all often"
+        ],
+        "scale": false
+    },
+    "Q225": {
+        "description": "How often in country's elections: Opposition candidates are prevented from running",
+        "questions": [
+            "How often are opposition candidates prevented from running in the country's elections?",
+            "To what extent are opposition candidates prevented from running in the country's elections?",
+            "On a regular basis, how often are opposition candidates prevented from running in the country's elections?",
+            "How frequently are opposition candidates prevented from running in the country's elections?"
+        ],
+        "options": [
+            "Very often",
+            "Fairly often",
+            "Not often",
+            "Not at all often"
+        ],
+        "scale": false
+    },
+    "Q227": {
+        "description": "How often in country's elections: Voters are bribed",
+        "questions": [
+            "How often are voters bribed in the country's elections?",
+            "How frequently do voters receive bribes in the country's elections?",
+            "On a regular basis, how often are voters bribed in the country's elections?",
+            "In the country's elections, how frequently do voters encounter bribery?"
+        ],
+        "options": [
+            "Very often",
+            "Fairly often",
+            "Not often",
+            "Not at all often"
+        ],
+        "scale": false
+    },
+    "Q228": {
+        "description": "How often in country's elections: Journalists provide fair coverage of elections",
+        "questions": [
+            "How often do journalists provide fair coverage of elections in your country?",
+            "In your country's elections, how frequently do journalists offer fair coverage?",
+            "How often would you say journalists provide fair coverage of elections in your country?",
+            "Do journalists in your country often provide fair coverage of elections?"
+        ],
+        "options": [
+            "Very often",
+            "Fairly often",
+            "Not often",
+            "Not at all often"
+        ],
+        "scale": false
+    },
+    "Q229": {
+        "description": "How often in country's elections: Election officials are fair",
+        "questions": [
+            "How frequently are election officials fair in country's elections?",
+            "How frequently do election officials exhibit fairness in country's elections?",
+            "To what extent do election officials demonstrate fairness in country's elections?",
+            "How often do you perceive election officials to be fair in country's elections?"
+        ],
+        "options": [
+            "Very often",
+            "Fairly often",
+            "Not often",
+            "Not at all often"
+        ],
+        "scale": false
+    },
+    "Q230": {
+        "description": "How often in country's elections: Rich people buy elections",
+        "questions": [
+            "How often do you think rich people buy elections in your country?",
+            "In your opinion, how often do rich people buy elections in your country?",
+            "To what extent do you believe rich people buy elections in your country?",
+            "How frequently do you perceive rich people buying elections in your country?"
+        ],
+        "options": [
+            "Very often",
+            "Fairly often",
+            "Not often",
+            "Not at all often"
+        ],
+        "scale": false
+    },
+    "Q231": {
+        "description": "How often in country's elections: Voters are threatened with  violence at the polls",
+        "questions": [
+            "How often are voters threatened with violence at the polls in the country's elections?",
+            "In the country's elections, how frequently are voters threatened with violence at the polling stations?",
+            "Do voters in the country's elections often face threats of violence at the polls?",
+            "To what extent are voters typically threatened with violence at the polls in the country's elections?"
+        ],
+        "options": [
+            "Very often",
+            "Fairly often",
+            "Not often",
+            "Not at all often"
+        ],
+        "scale": false
+    },
+    "Q232": {
+        "description": "How often in country's elections: Voters are offered a genuine choice in the elections",
+        "questions": [
+            "How frequently are voters offered a genuine choice in the country's elections?",
+            "What is the frequency at which voters are offered a genuine choice in the country's elections?",
+            "How often do voters have a genuine choice in the country's elections?",
+            "To what extent are voters offered a genuine choice in the country's elections?"
+        ],
+        "options": [
+            "Very often",
+            "Fairly often",
+            "Not often",
+            "Not at all often"
+        ],
+        "scale": false
+    },
+    "Q233": {
+        "description": "How often in country's elections: Women have equal opportunities to run the office",
+        "questions": [
+            "How often do women have equal opportunities to run for office in your country's elections?",
+            "In your country's elections, how often do women have equal chances to run for office?",
+            "To what extent do women have equal opportunities to run for office in your country's elections?",
+            "Do women often have equal chances to run for office in your country's elections?"
+        ],
+        "options": [
+            "Very often",
+            "Fairly often",
+            "Not often",
+            "Not at all often"
+        ],
+        "scale": false
+    },
+    "Q234": {
+        "description": "How much would you say the political system in your country allows people like you to have a say in what the government does?",
+        "questions": [
+            "To what extent do you feel the political system in your country allows people like you to have a say in what the government does?",
+            "How much importance do you place on the ability of the political system in your country to let people like you influence government decisions?",
+            "In your opinion, how significant is it for people like you to be able to have a say in what the government does through the political system?",
+            "To what degree do you think the political system in your country enables individuals like you to have a say in government actions?"
+        ],
+        "options": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important"
+        ],
+        "scale": false
+    },
+    "Q235": {
+        "description": "Political system: Having a strong leader who does not have to bother with parliament and elections",
+        "questions": [
+            "What is your opinion on a political system with a strong leader who does not have to bother with parliament and elections?",
+            "How do you perceive a political system where a strong leader is not obligated to deal with parliament and elections?",
+            "What are your thoughts on a political system that involves a strong leader without any involvement in parliament and elections?",
+            "In your opinion, how would you rate a political system with a strong leader who does not need to worry about parliament and elections?"
+        ],
+        "options": [
+            "Very good",
+            "Fairly good",
+            "Fairly bad",
+            "Very bad"
+        ],
+        "scale": false
+    },
+    "Q236": {
+        "description": "Political system: Having experts, not government, make decisions according to what they think is best for the country",
+        "questions": [
+            "What is your opinion on a political system that involves experts making decisions based on what they think is best for the country?",
+            "What is your view on a political system where decisions are made by experts according to their understanding of what is best for the country?",
+            "What do you think about a political system that relies on experts to make decisions in the best interest of the country?",
+            "How do you feel about a political system in which decisions are made by experts who determine what is best for the country?"
+        ],
+        "options": [
+            "Very good",
+            "Fairly good",
+            "Fairly bad",
+            "Very bad"
+        ],
+        "scale": false
+    },
+    "Q238": {
+        "description": "Political system: Having a democratic political system",
+        "questions": [
+            "What is your opinion on the political system of having a democratic political system?",
+            "How would you rate the political system of having a democratic political system?",
+            "In your opinion, is the political system of having a democratic political system good or bad?",
+            "What is your assessment of the political system of having a democratic political system?"
+        ],
+        "options": [
+            "Very good",
+            "Fairly good",
+            "Fairly bad",
+            "Very bad"
+        ],
+        "scale": false
+    },
+    "Q239": {
+        "description": "Political system: Having a system governed by religious law in which there are no political parties or elections",
+        "questions": [
+            "What is your opinion on a political system governed by religious law with no political parties or elections?",
+            "How would you rate a system where religious law governs without any political parties or elections?",
+            "In your view, how good or bad is a political system that is governed by religious law without any political parties or elections?",
+            "What is your perception of a system governed solely by religious law, with no political parties or elections?"
+        ],
+        "options": [
+            "Very good",
+            "Fairly good",
+            "Fairly bad",
+            "Very bad"
+        ],
+        "scale": false
+    },
+    "Q57": {
+        "description": "Most people can be trusted",
+        "questions": [
+            "Do you believe that most people can be trusted?",
+            "In your opinion, can most people be trusted?",
+            "Is it your belief that most people can be trusted?",
+            "Do you think most people can be trusted?"
+        ],
+        "options": [
+            "Most people can be trusted",
+            "Need to be very careful"
+        ],
+        "scale": false
+    },
+    "Q241": {
+        "description": "Democracy: Governments tax the rich and subsidize the poor",
+        "questions": [
+            "To what extent do you believe that taxing the rich and subsidizing the poor is an essential characteristic of democracy?",
+            "On a scale of 1 to 10, how important do you think it is for democracies to tax the rich and provide subsidies to the poor?",
+            "How strongly do you agree or disagree that democracies should tax the rich and subsidize the poor? Please rate your response on a scale of 1 to 10.",
+            "Rate the extent to which you believe that taxing the rich and subsidizing the poor is a fundamental aspect of democracy using a scale of 1 to 10."
+        ],
+        "options": [
+            "Not an essential characteristic of democracy",
+            "An essential characteristic of democracy"
+        ],
+        "scale": true
+    },
+    "Q242": {
+        "description": "Democracy: Religious authorities interpret the laws",
+        "questions": [
+            "On a scale of 1 to 10, how essential do you think it is for democracy that religious authorities interpret the laws?",
+            "Please rate the extent to which you believe that democracy requires religious authorities to interpret the laws, on a scale of 1 to 10.",
+            "To what degree do you consider it necessary for democracy that religious authorities have the power to interpret the laws? Please rate from 1 to 10.",
+            "How important do you feel it is for democracy to have religious authorities interpreting the laws? Please indicate your opinion on a scale of 1 to 10."
+        ],
+        "options": [
+            "Not an essential characteristic of democracy",
+            "An essential characteristic of democracy"
+        ],
+        "scale": true
+    },
+    "Q244": {
+        "description": "Democracy: People receive state aid for unemployment",
+        "questions": [
+            "Democracy: People receive state aid for unemployment?",
+            "To what extent do you believe that people receiving state aid for unemployment is an essential characteristic of democracy? (Rate from 1 to 10)",
+            "On a scale of 1 to 10, how essential do you consider the provision of state aid for unemployment in a democracy?",
+            "How much do you think the provision of state aid for unemployment contributes to the essential characteristics of a democracy? (Rate from 1 to 10)"
+        ],
+        "options": [
+            "Not an essential characteristic of democracy",
+            "An essential characteristic of democracy"
+        ],
+        "scale": true
+    },
+    "Q247": {
+        "description": "Democracy: The state makes people's incomes equal",
+        "questions": [
+            "Democracy: The state making people's incomes equal",
+            "Democracy: Is the state's role in making people's incomes equal",
+            "To what extent do you believe democracy involves the state making people's incomes equal?",
+            "On a scale from 1 to 10, how essential do you think it is for democracy to include the state making people's incomes equal?"
+        ],
+        "options": [
+            "Not an essential characteristic of democracy",
+            "An essential characteristic of democracy"
+        ],
+        "scale": true
+    },
+    "Q248": {
+        "description": "Democracy: People obey their rulers",
+        "questions": [
+            "Democracy: People obeying their rulers is not an essential characteristic of democracy. (Rate on a scale of 1-10)",
+            "To what extent do you consider people obeying their rulers as an essential characteristic of democracy? (Rate on a scale of 1-10)",
+            "In your opinion, how important is it for democracy that people obey their rulers? (Rate on a scale of 1-10)",
+            "How much do you agree that people obeying their rulers is a fundamental aspect of democracy? (Rate on a scale of 1-10)"
+        ],
+        "options": [
+            "Not an essential characteristic of democracy",
+            "An essential characteristic of democracy"
+        ],
+        "scale": true
+    },
+    "Q250": {
+        "description": "Importance of democracy",
+        "questions": [
+            "On a scale of 1 to 10, how important do you consider democracy to be?",
+            "How would you rate the importance of democracy on a scale of 1 to 10?",
+            "To what extent do you believe democracy is important? Please rate on a scale of 1 to 10.",
+            "Please indicate the level of importance you attribute to democracy on a scale of 1 to 10."
+        ],
+        "options": [
+            "Not at all important",
+            "Absolutely important"
+        ],
+        "scale": true
+    },
+    "Q251": {
+        "description": "How democratically is this country being governed today",
+        "questions": [
+            "How democratically is this country being governed today, according to you? (On a scale of 1-10)",
+            "On a scale from 1 to 10, how democratic do you believe the government of this country is today?",
+            "To what extent do you feel this country is governed democratically? Please rate on a scale of 1 to 10.",
+            "How would you rate the current level of democracy in this country on a scale of 1 to 10?"
+        ],
+        "options": [
+            "Not at all democratic",
+            "Completely democratic"
+        ],
+        "scale": true
+    },
+    "Q253": {
+        "description": "Respect for individual human rights nowadays",
+        "questions": [
+            "How would you describe the level of respect for individual human rights nowadays?",
+            "To what extent do you think individual human rights are respected in today's society?",
+            "In your opinion, how much respect is given to individual human rights these days?",
+            "When it comes to individual human rights, how would you assess the level of respect currently?"
+        ],
+        "options": [
+            "A great deal of respect for individual human rights",
+            "Fairly much respect",
+            "Not much respect",
+            "No respect at all"
+        ],
+        "scale": false
+    },
+    "Q254": {
+        "description": "National pride",
+        "questions": [
+            "How proud are you of your nationality?",
+            "On a scale of 1 to 4, how proud are you of your nationality?",
+            "In terms of national pride, would you consider yourself closer to being very proud or not at all proud?",
+            "Would you describe your level of national pride as quite proud, not very proud, or somewhere in between?"
+        ],
+        "options": [
+            "Very proud",
+            "Quite proud",
+            "Not very proud",
+            "Not at all proud"
+        ],
+        "scale": false
+    }
+}

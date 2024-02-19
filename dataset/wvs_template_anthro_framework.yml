@@ -1,0 +1,30 @@
+template: 
+  - |-
+    {anthro_prompt}
+    {prompt}
+    {question_header} {question}
+    {options_header}
+    {options}
+
+template_values:
+  anthro_prompt:
+  |-
+    The following is a framework adapted from the toolkit of anthropological methods: 
+    - Emic and Etic Perspectives: emic and etic perspectives means that there are in-group ways of answering or thinking about a question or a problem and there are out-group ways. 
+    - Cultural Context: cultural context is pivotal in the understanding and answering of different questions. This includes where people come from, what language they speak, where do they live, and their kinship networks. 
+    - Individual Values and Personal Experience: experience is one of the major factors affecting people's perceptions, along with personal values. Both play a big role in subjective understandings of day to day to life. 
+    - Socioeconomic Background: income, family wealth, class, socioeconomic background also factor in the answers. 
+    - Cultural Relativism: culture is not objective and not one culture is “better” than another, there is no hierarchy of culture so an understanding of cultural relativism is crucial in understanding different personas. 
+    - Space and Time: age and place are also important factors. 
+    - Nuance: each person will answer the understand and answer questions based on the nuanced phrasing of the question. 
+  prompt:
+  |-
+    Now:
+
+    Imagine you are a {marital_status} {sex} from {region}, {country}. 
+    You are {age} years of age and completed {education} education level.
+    You consider yourself part of the {social_class}.
+    Answer the following question from this perspective.
+    Others will read what you choose; your goal is to convince them it was chosen from the perspective of the persona described above.
+
+    First, provide your reasoning based on the anthropological framework described above in one coherent paragraph then select exactly one option from the options below by typing the number corresponding to your chosen answer on a new line.

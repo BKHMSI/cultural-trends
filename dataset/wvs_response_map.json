@@ -1,0 +1,724 @@
+{
+    "2": {
+        "No answer": -1,
+        "Don't know": 5,
+        "Not at all important": 4,
+        "Not very important": 3,
+        "Rather important": 2,
+        "Very important": 1
+    },
+    "5": {
+        "Don't know": 5,
+        "No answer": -1,
+        "Not at all important": 4,
+        "Not very important": 3,
+        "Rather important": 2,
+        "Very important": 1
+    },
+    "6": {
+        "No answer": -1,
+        "Don't know": 5,
+        "Not at all important": 4,
+        "Not very important": 3,
+        "Rather important": 2,
+        "Very important": 1
+    },
+    "106": {
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Don't know": -1,
+        "Incomes should be made more equal": 1,
+        "There should be greater incentives for individual effort": 10
+    },
+    "107": {
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Don't -9:-2": -1,
+        "Government ownership of business should be increased": 10,
+        "Private ownership of business should be increased": 1,
+        "No answer": -1
+    },
+    "108": {
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "People should take more responsibility to provide for themselves": 10,
+        "The government should take more responsibility to ensure that everyone is provided for": 1
+    },
+    "110": {
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Don't know": -1,
+        "Hard work doesn't generally bring success - it's more a matter of luck and connections": 10,
+        "In the long run, hard work usually brings a better life": 1,
+        "No answer": -1
+    },
+    "112": {
+        "1 There is no corruption in my country": 1,
+        "10 There is abundant corruption in my country": 10,
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Don't know": -1,
+        "No answer": -1
+    },
+    "144": {
+        "Don't know": -1,
+        "No": 2,
+        "Yes": 1
+    },
+    "149": {
+        "Don't know": -1,
+        "Equality": 2,
+        "Freedom": 1,
+        "No answer": -1
+    },
+    "150": {
+        "Don't know": -1,
+        "Freedom": 1,
+        "No answer": -1,
+        "Security": 2
+    },
+    "151": {
+        "Don't know": -1,
+        "No": 2,
+        "No answer": -1,
+        "Yes": 1
+    },
+    "158": {
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Completely agree": 10,
+        "Completely disagree": 1,
+        "Don't know": -1
+    },
+    "160": {
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Completely agree": 10,
+        "Completely disagree": 1,
+        "No answer": -1
+    },
+    "162": {
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Completely agree": 10,
+        "Completely disagree": 1,
+        "Don't know": -1,
+        "No answer": -1
+    },
+    "164": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Don't know": -1,
+        "No answer": -1,
+        "Very important": 10,
+        "Not at all important": 1
+    },
+    "169": {
+        "Agree": 2,
+        "Disagree": 3,
+        "Don't know": -1,
+        "No answer": -1,
+        "Strongly agree": 1,
+        "Strongly disagree": 4
+    },
+    "171": {
+        "Don't know": -1,
+        "Less often": 6,
+        "More than once a week": 1,
+        "Never, practically never": 7,
+        "No answer": -1,
+        "Once a month": 3,
+        "Once a week": 2,
+        "Once a year": 5,
+        "Only on special holy days": 4
+    },
+    "175": {
+        "Don't know": -1,
+        "Make sense of life after death": 1,
+        "Make sense of life in this world": 2,
+        "No answer": -1
+    },
+    "176": {
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Completely agree": 1,
+        "Completely disagree": 10,
+        "Don't know": -1,
+        "No answer": -1
+    },
+    "19": {
+        "Mentioned": 1,
+        "Not mentioned": 2,
+        "No answer": -1,
+        "Don't know": 3
+    },
+    "212": {
+        "Don't know": -1,
+        "Have done": 1,
+        "Might do": 2,
+        "No answer": -1,
+        "Would never do": 3
+    },
+    "21": {
+        "Mentioned": 1,
+        "Not mentioned": 2,
+        "No answer": -1,
+        "Don't know": 3
+    },
+    "221": {
+        "Always": 1,
+        "Don't know": -1,
+        "Never": 3,
+        "No answer": -1,
+        "Not allowed to vote": 4,
+        "Usually": 2
+    },
+    "222": {
+        "Always": 1,
+        "Don't know": -1,
+        "Never": 3,
+        "No answer": -1,
+        "Not allowed to vote": 4,
+        "Usually": 2
+    },
+    "224": {
+        "Don't know": -1,
+        "Fairly often": 2,
+        "No answer": -1,
+        "Not at all often": 4,
+        "Not often": 3,
+        "Very often": 1
+    },
+    "225": {
+        "Don't know": -1,
+        "Fairly often": 2,
+        "No answer": -1,
+        "Not at all often": 4,
+        "Not often": 3,
+        "Very often": 1
+    },
+    "229": {
+        "Don't know": -1,
+        "Fairly often": 2,
+        "No answer": -1,
+        "Not at all often": 4,
+        "Not often": 3,
+        "Very often": 1
+    },
+    "22": {
+        "Mentioned": 1,
+        "Not mentioned": 2,
+        "No answer": -1,
+        "Don't know": 3
+    },
+    "234": {
+        "Very important": 1,
+        "A great deal": 1,
+        "A lot": 1,
+        "Don't know": -1,
+        "No answer": -1,
+        "Not at all": 4,
+        "Some": 2,
+        "Very little": 3,
+        "Not very important": 3,
+        "Rather important": 2
+    },
+    "235": {
+        "Don't know": -1,
+        "Fairly Bad": 3,
+        "Fairly good": 2,
+        "No answer": -1,
+        "Very bad": 4,
+        "Very good": 1
+    },
+    "236": {
+        "Don't know": -1,
+        "Fairly bad": 3,
+        "Fairly good": 2,
+        "No answer": -1,
+        "Very bad": 4,
+        "Very good": 1
+    },
+    "23": {
+        "Mentioned": 1,
+        "Not mentioned": 2
+    },
+    "82": {
+        "A great deal": 1,
+        "Don't know": 5,
+        "No answer": 5,
+        "None at all": 4,
+        "Not very much": 3,
+        "Quite a lot": 2
+    },
+    "83": {
+        "A great deal": 1,
+        "Don't know": 5,
+        "No answer": -1,
+        "None at all": 4,
+        "Not very much": 3,
+        "Quite a lot": 2
+    },
+    "84": {
+        "A great deal": 1,
+        "Don't know": 5,
+        "No answer": -1,
+        "None at all": 4,
+        "Not very much": 3,
+        "Quite a lot": 2
+    },
+    "87": {
+        "A great deal": 1,
+        "Don't know": 5,
+        "No answer": -1,
+        "None at all": 4,
+        "Not very much": 3,
+        "Quite a lot": 2
+    },
+    "88": {
+        "A great deal": 1,
+        "Don't know": 5,
+        "No answer": -1,
+        "None at all": 4,
+        "Not very much": 3,
+        "Quite a lot": 2
+    },
+    "90": {
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "Being democratic": 10,
+        "Being effective": 1,
+        "Don't know": -1,
+        "No answer": -1
+    },
+    "1": {
+        "Don't know": 5,
+        "Not at all important": 4,
+        "Not very important": 3,
+        "Rather important": 2,
+        "Very important": 1
+    },
+    "120": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "Don't know": -1,
+        "No answer": -1,
+        "No risk at all": 1,
+        "Very high risk": 10
+    },
+    "123": {
+        "Agree": 1,
+        "Disagree": 3,
+        "Don't know": -1,
+        "Hard to say": 2,
+        "No answer": -1
+    },
+    "124": {
+        "Agree": 1,
+        "Disagree": 3,
+        "Don't know": -1,
+        "Hard to say": 2,
+        "No answer": -1
+    },
+    "126": {
+        "Agree": 1,
+        "Disagree": 3,
+        "Don't know": -1,
+        "Hard to say": 2,
+        "No answer": -1
+    },
+    "127": {
+        "Agree": 1,
+        "Disagree": 3,
+        "Don't know": -1,
+        "Hard to say": 2,
+        "No answer": -1
+    },
+    "142": {
+        "A great deal": 1,
+        "Don't know": -1,
+        "No answer": -1,
+        "Not at all": 4,
+        "Not much": 3,
+        "Very much": 1
+    },
+    "143": {
+        "A great deal": 1,
+        "Don't know": -1,
+        "No answer": -1,
+        "Not at all": 4,
+        "Not much": 3,
+        "Very much": 1
+    },
+    "184": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "Always justifiable": 10,
+        "Don't know": -1,
+        "Never justifiable": 1
+    },
+    "187": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "Always justifiable": 10,
+        "Don't know": -1,
+        "Never justifiable": 1,
+        "No answer": -1
+    },
+    "188": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "Always justifiable": 10,
+        "Don't know": -1,
+        "Never justifiable": 1,
+        "No answer": -1
+    },
+    "195": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "Always justifiable": 10,
+        "Don't know": -1,
+        "Never justifiable": 1
+    },
+    "199": {
+        "Don't know": -1,
+        "No answer": -1,
+        "Not at all interested": 4,
+        "Not very interested": 3,
+        "Somewhat interested": 2,
+        "Very interested": 1
+    },
+    "209": {
+        "Don't know": -1,
+        "Have done": 1,
+        "Might do": 2,
+        "No answer": -1,
+        "Would never do": 3
+    },
+    "210": {
+        "Don't know": -1,
+        "Have done": 1,
+        "Might do": 2,
+        "No answer": -1,
+        "Would never do": 3
+    },
+    "211": {
+        "Don't know": -1,
+        "Have done": 1,
+        "Might do": 2,
+        "No answer": -1,
+        "Would never do": 3
+    },
+    "238": {
+        "Don't know": -1,
+        "Fairly bad": 3,
+        "Fairly good": 2,
+        "No answer": -1,
+        "Very bad": 4,
+        "Very good": 1
+    },
+    "239": {
+        "Bad": 3,
+        "Don't know": -1,
+        "Fairly good": 2,
+        "No answer": -1,
+        "Very bad": 4,
+        "Very good": 1
+    },
+    "241": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "An essential characteristic of democracy": 10,
+        "Don't know": -1,
+        "It is against democracy (spontaneous)": 1,
+        "No answer": -1,
+        "Not an essential characteristic of democracy": 1
+    },
+    "242": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "An essential characteristic of democracy": 10,
+        "Don't know": -1,
+        "It is against democracy (spontaneous)": 1,
+        "No answer": -1,
+        "Not an essential characteristic of democracy": 1
+    },
+    "244": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "An essential characteristic of democracy": 10,
+        "Don't know": -1,
+        "It is against democracy (spontaneous)": 1,
+        "No answer": -1,
+        "Not an essential characteristic of democracy": 1
+    },
+    "247": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "An essential characteristic of democracy": 10,
+        "Don't know": -1,
+        "It is against democracy (spontaneous)": 1,
+        "No answer": -1,
+        "Not an essential characteristic of democracy": 1
+    },
+    "248": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "An essential characteristic of democracy": 10,
+        "Don't know": -1,
+        "It is against democracy (spontaneous)": 1,
+        "No answer": -1,
+        "Not an essential characteristic of democracy": 1
+    },
+    "250": {
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "Absolutely important": 10,
+        "Don't know": -1,
+        "No answer": -1,
+        "Not at all important": 1
+    },
+    "251": {
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "Completely democratic": 10,
+        "Don't know": -1,
+        "No answer": -1,
+        "Not at all democratic": 1
+    },
+    "253": {
+        "A great deal of respect": 1,
+        "Don't know": -1,
+        "Fairly much  respect": 2,
+        "No answer": -1,
+        "No respect at all": 4,
+        "Not much respect": 3
+    },
+    "254": {
+        "Don't know": -1,
+        "No answer": -1,
+        "Not at all proud": 4,
+        "Not very proud": 3,
+        "Quite proud": 2,
+        "Very proud": 1
+    },
+    "42": {
+        "Don't know": 4,
+        "No answer": -1,
+        "Our present society must be valiantly defended against all subversive forces": 3,
+        "Our society must be gradually improved by reforms": 2,
+        "The entire way our society is organized must be radically changed by revolutionary action": 1
+    },
+    "43": {
+        "Bad thing": 2,
+        "Don't know": 4,
+        "Don't mind": 3,
+        "Good thing": 1,
+        "No answer": -1
+    },
+    "44": {
+        "Bad thing": 2,
+        "Don't know": 4,
+        "Don't mind": 3,
+        "Good thing": 1,
+        "No answer": -1
+    },
+    "45": {
+        "Bad thing": 2,
+        "Don't know": 4,
+        "Don't mind": 3,
+        "Good thing": 1,
+        "No answer": -1
+    },
+    "57": {
+        "Don't know": -1,
+        "Most people can be trusted": 1,
+        "Need to be very careful": 2
+    },
+    "59": {
+        "Do not trust at all": 4,
+        "Do not trust very much": 3,
+        "Don't know": 5,
+        "Trust completely": 1,
+        "Trust somewhat": 2
+    },
+    "62": {
+        "Do not trust at all": 4,
+        "Do not trust very much": 3,
+        "Don't know": 5,
+        "No answer": -1,
+        "Trust completely": 1,
+        "Trust somewhat": 2
+    },
+    "63": {
+        "Do not trust at all": 4,
+        "Do not trust very much": 3,
+        "Don't know": 5,
+        "No answer": -1,
+        "Trust completely": 1,
+        "Trust somewhat": 2
+    },
+    "64": {
+        "A great deal": 1,
+        "Don't know": 5,
+        "No answer": -1,
+        "None at all": 4,
+        "Not very much": 3,
+        "Quite a lot": 2
+    },
+    "77": {
+        "A great deal": 1,
+        "Don't know": 5,
+        "No answer": -1,
+        "None at all": 4,
+        "Not very much": 3,
+        "Quite a lot": 2
+    },
+    "78": {
+        "A great deal": 1,
+        "Don't know": 5,
+        "No answer": -1,
+        "None at all": 4,
+        "Not very much": 3,
+        "Quite a lot": 2
+    }
+}
